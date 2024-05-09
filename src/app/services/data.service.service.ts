@@ -8,10 +8,4 @@ import { DataDS } from '../common/data-ds';
 })
 export class DataServiceService {
 
-  constructor(private http: HttpClient) {
-
-   }
-   loadDS(): Observable<DataDS>{
-    return this.http.get<DataDS>();
-   }
 }

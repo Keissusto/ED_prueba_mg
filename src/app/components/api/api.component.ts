@@ -11,13 +11,4 @@ import { Data } from '@angular/router';
   styleUrl: './api.component.css'
 })
 export class APIComponent {
-
-  api!: DataDS;
-  private data: DataDS = inject(DataServiceService);
-  constructor(){
-
-  }
-  private cargaArma(){
-   this.data.name.
-  }
 }

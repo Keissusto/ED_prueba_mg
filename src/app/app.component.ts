@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 import { RouterLink, RouterLinkActive, RouterOutlet} from '@angular/router';
-import { NavbarComponent } from './navbar/navbar.component';
-import { HeaderComponent } from './header/header.component';
+import { NavbarComponent } from './layouts/navbar/navbar.component';
+import { HeaderComponent } from './layouts/header/header.component';
 
 
 @Component({

@@ -1,17 +1,23 @@
+import { Component } from '@angular/core';
 import { Routes } from '@angular/router';
-import { APIComponent } from './api/api.component';
-import { ContactoComponent } from './contacto/contacto.component';
-import { LoginComponent } from './login/login.component';
-import { InicioComponent } from './inicio/inicio.component';
-import { HeaderComponent } from './header/header.component';
-import { NavbarComponent } from './navbar/navbar.component';
+import { APIComponent } from './components/api/api.component';
+import { LoginComponent } from './components/login/login.component';
+import { InicioComponent } from './components/inicio/inicio.component';
+import { HeaderComponent } from './layouts/header/header.component';
+import { NavbarComponent } from './layouts/navbar/navbar.component';
+import { DetallesAPIComponent } from './components/detalles-api/detalles-api.component';
+import { RegistroComponent } from './components/registro/registro.component';
+import { ErrorComponent } from './layouts/error/error.component';
+
 
 export const routes: Routes = [
     {path:'', redirectTo:'login',pathMatch:'full'},
     {path:'login',component: LoginComponent},
     {path:'inicio',component: InicioComponent},
     {path:'API',component: APIComponent},
-    {path:'contacto',component: ContactoComponent},
     {path:'header',component: HeaderComponent},
-    {path:'navbar',component: NavbarComponent}
+    {path:'navbar',component: NavbarComponent},
+    {path:'detallesAPI',component: DetallesAPIComponent},
+    {path:'registro',component: RegistroComponent},
+    {path:'**',component: ErrorComponent}
 ];
