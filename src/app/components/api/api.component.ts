@@ -1,6 +1,6 @@
 import { DataDS } from './../../common/data-ds';
 import { Component, inject } from '@angular/core';
-import { DataService } from '../../services/data.service';
+import { DataServiceService } from '../../services/data.service.service';
 import { Data } from '@angular/router';
 
 @Component({
@@ -13,11 +13,11 @@ import { Data } from '@angular/router';
 export class APIComponent {
 
   api!: DataDS;
-  private data: DataDS = inject(DataService);
+  private data: DataDS = inject(DataServiceService);
   constructor(){
 
   }
   private cargaArma(){
-   this.
+   this.data.name.
   }
 }
