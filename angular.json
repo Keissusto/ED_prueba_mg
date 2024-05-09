@@ -99,12 +99,5 @@
         }
       }
     }
-  },
-  "cli": {
-<<<<<<< HEAD
-    "analytics": false
-=======
-    "analytics": "a5631506-34f0-4432-9366-7b5edec95408"
->>>>>>> 053e3093c9f2ecfdb18536559e9a2299afe215cb
   }
 }
