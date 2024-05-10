@@ -1,0 +1,10 @@
+.fondo{
+    background: rgb(255,172,53);
+background: linear-gradient(90deg, rgba(255,172,53,1) 0%, rgba(246,136,26,1) 1%, rgba(235,110,14,1) 4%, rgba(255,93,19,1) 7%, rgba(249,93,40,1) 10%, rgba(233,100,43,1) 13%, rgba(200,60,0,1) 20%, rgba(156,50,5,1) 29%, rgba(117,52,23,1) 36%, rgba(102,62,44,1) 43%, rgba(83,62,54,1) 58%, rgba(51,40,40,1) 70%, rgba(48,27,27,1) 83%, rgba(22,18,18,1) 92%, rgba(0,0,0,0.9838060224089635) 97%);
+
+}
+
+*{
+    color: white;
+    font-family: 'Optimus Princeps'
+}
