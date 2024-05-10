@@ -8,5 +8,16 @@ import { Component } from '@angular/core';
   styleUrl: './login.component.css'
 })
 export class LoginComponent {
+  username: string = '';
+  password: string = '';
 
+  async login() {
+   
+    if (this.username === 'usuario' && this.password === 'senha') {
+      alert('Login bem sucedido!');
+     
+    } else {
+      alert('Credenciais inválidas. Por favor, tente novamente.');
+    }
+  }
 }
