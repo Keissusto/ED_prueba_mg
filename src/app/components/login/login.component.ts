@@ -13,11 +13,11 @@ export class LoginComponent {
 
   async login() {
    
-    if (this.username === 'usuario' && this.password === 'senha') {
-      alert('Login bem sucedido!');
+    if (this.username === 'usuario' && this.password === 'contrasenya') {
+      alert('Usuario correcto!');
      
     } else {
-      alert('Credenciais inválidas. Por favor, tente novamente.');
+      alert('No se ha podido iniciar sesión.');
     }
   }
 }
