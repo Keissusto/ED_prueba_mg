@@ -8,4 +8,13 @@ import { DataDS } from '../common/data-ds';
 })
 export class DataServiceService {
 
+  constructor( private http: HttpClient){
+    
+  }
+
+  loadApi(): Observable<DataDS[]>
+  {
+    return this.http.get<DataDS[]>("../../assets/datos/ds.json")
+  }
+
 }

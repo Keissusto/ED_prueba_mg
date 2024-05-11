@@ -3,66 +3,29 @@
   <div class="title py-5">
     <h1 class="text-center">DARK SOULS API</h1>
   </div>
+  
   <div class="d-flex  align-items-center justify-content-center" style="padding-bottom: 10%;">
-    <div class="card col-2.5  py-5 cartaarma" style="padding-left: 2%; padding-right: 1%;">
+    @for (item of api; track $index) {
+    <div  class= "card col-2.5  py-5 cartaarma" style="padding-left: 2%; padding-right: 1%;">
       <div>
-        <h1>Nº1: Espada  de pito</h1>
+        <h1>{{item.name}} </h1>
       </div>
-      <div>
-        <img src="" alt="">
+      <div class="image">
+        <img src="{{item.image}}" alt="">
       </div>
-      <span>Tipo de arma: </span>
-      <span>Peso: </span>
-      <span>Daño: </span>
-      <span>Durabilidad: </span>
-      <span>Tipo de ataque: </span>
-      <span>Requisitos: </span>
-      <span>Reducción de daño:</span>
+      <span>Tipo de arma:{{item.weapon_type}} </span>
+      <span>Peso:{{item.weight}}  </span>
+      <span>Daño:(Fisico:{{item.damage.physical}}, Fuego: {{item.damage.fire}}, Luz {{item.damage.lightning}}, Magia {{item.damage.magic}}  )</span>
+      <span>Durabilidad:{{item.durability}}  </span>
+      <span>Tipo de ataque:{{item.attack_type}}  </span>
+      <span>Requisitos: (Destreza {{item.requirements.dexterity}}, Fe {{item.requirements.faith}}, Inteligencia {{item.requirements.intelligence}}, Fuerza {{item.requirements.strength}} )  </span>
+      <span>Reducción de daño: ( Fuego {{item.damage_reduction.fire}}, Luz {{item.damage_reduction.lightning}}, Magia {{item.damage_reduction.magic}}, Fisico {{item.damage_reduction.physical}} )  </span>
     </div>
-    <div class="card col-2.5  py-5 cartaarma" style="padding-left: 2%; margin-left: 1%; padding-right: 1%;">
-      <div>
-        <h1>Nº1: Espada  de pito</h1>
-      </div>
-      <div>
-        <img src="" alt="">
-      </div>
-      <span>Tipo de arma: </span>
-      <span>Peso: </span>
-      <span>Daño: </span>
-      <span>Durabilidad: </span>
-      <span>Tipo de ataque: </span>
-      <span>Requisitos: </span>
-      <span>Reducción de daño:</span>
+    
+    <div style="padding-left: 2%; margin-left: 1%; padding-right: 1%;">
+     
     </div>
-    <div class="card col-2.5  py-5 cartaarma" style="padding-left: 2%; margin-left: 1%; padding-right: 1%;">
-      <div>
-        <h1>Nº1: Espada  de pito</h1>
-      </div>
-      <div>
-        <img src="" alt="">
-      </div>
-      <span>Tipo de arma: </span>
-      <span>Peso: </span>
-      <span>Daño: </span>
-      <span>Durabilidad: </span>
-      <span>Tipo de ataque: </span>
-      <span>Requisitos: </span>
-      <span>Reducción de daño:</span>
-    </div>
-    <div class="card col-2.5  py-5 cartaarma" style="padding-left: 2%; margin-left: 1%; padding-right: 1%;">
-      <div>
-        <h1>Nº1: Espada  de pito</h1>
-      </div>
-      <div>
-        <img src="" alt="">
-      </div>
-      <span>Tipo de arma: </span>
-      <span>Peso: </span>
-      <span>Daño: </span>
-      <span>Durabilidad: </span>
-      <span>Tipo de ataque: </span>
-      <span>Requisitos: </span>
-      <span>Reducción de daño:</span>
-    </div>
+  }
   </div>
+
 </div>
