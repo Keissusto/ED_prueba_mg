@@ -35,23 +35,7 @@ export class APIComponent {
     });
   }
   cambiarPag(pag:string){
-    switch(pag){
-      case "first":
-        this.loadPag("https://rickandmortyapi.com/api/character/?page=1");
-        break;
-        case "prev":
-          this.loadPag(this.DataDS.info.prev)
-          break;
-          case "next":
-            this.loadPag(this.DataDS.info.next)
-          break;
-          case "last":
-            this.loadPag("https://rickandmortyapi.com/api/character/?page=" + 42)
-            break;
-            default:
-              break;
-
-    }
+    
   }
   private loadPag(pag: string){
     this.data.reloadPag(pag).subscribe({

@@ -1,5 +1,6 @@
 [
     {
+      "imagen": "../../../assets/darksouls armas2/Abyss Greatsword.png",
       "requirements": {
         "faith": 18,
         "strength": 22,
@@ -22,7 +23,6 @@
       },
       "durability": 300,
       "name": "Abyss Greatsword",
-      "imagen": "",
       "attack_type": "regular",
       "bonus": {
         "faith": null,
@@ -32,6 +32,7 @@
       }
     },
     {
+      "imagen": "../../../assets/darksouls armas2/Astora's Straight Sword.png",
       "requirements": {
         "faith": 14,
         "strength": 10,
@@ -63,6 +64,7 @@
       }
     },
     {
+      "imagen": "../../../assets/darksouls armas2/Avelyn.png",
       "requirements": {
         "faith": 0,
         "strength": 16,
@@ -94,6 +96,7 @@
       }
     },
     {
+      "imagen": "../../../assets/darksouls armas2/Balder Side Sword.png",
       "requirements": {
         "faith": 0,
         "strength": 10,
@@ -125,6 +128,7 @@
       }
     },
     {
+      "imagen": "../../../assets/darksouls armas2/Bandit's Knife.png",
       "requirements": {
         "faith": 0,
         "strength": 5,
@@ -156,6 +160,7 @@
       }
     },
     {
+      "imagen": "../../../assets/darksouls armas2/Barbed Straight Sword.png",
       "requirements": {
         "faith": 0,
         "strength": 10,
@@ -187,6 +192,7 @@
       }
     },
     {
+      "imagen": "../../../assets/darksouls armas2/Bastard Sword.png",
       "requirements": {
         "faith": 0,
         "strength": 16,
@@ -218,6 +224,7 @@
       }
     },
     {
+      "imagen": "../../../assets/darksouls armas2/Battle Axe.png",
       "requirements": {
         "faith": 0,
         "strength": 12,
@@ -249,6 +256,7 @@
       }
     },
     {
+      "imagen": "../../../assets/darksouls armas2/Black Bow of Pharis.png",
       "requirements": {
         "faith": 0,
         "strength": 9,
@@ -280,6 +288,7 @@
       }
     },
     {
+      "imagen": "../../../assets/darksouls armas2/Black Knight Greataxe.png",
       "requirements": {
         "faith": 0,
         "strength": 36,
@@ -311,6 +320,7 @@
       }
     },
     {
+      "imagen": "../../../assets/darksouls armas2/Black Knight Greatsword.png",
       "requirements": {
         "faith": 0,
         "strength": 32,
@@ -342,6 +352,7 @@
       }
     },
     {
+      "imagen": "../../../assets/darksouls armas2/Black Knight Halberd.png",
       "requirements": {
         "faith": 0,
         "strength": 32,
@@ -373,6 +384,7 @@
       }
     },
     {
+      "imagen": "../../../assets/darksouls armas2/Black Knight Sword.png",
       "requirements": {
         "faith": 0,
         "strength": 20,
@@ -404,6 +416,7 @@
       }
     },
     {
+      "imagen": "../../../assets/darksouls armas2/Blacksmith Giant Hammer.png",
       "requirements": {
         "faith": 0,
         "strength": 16,
@@ -435,6 +448,7 @@
       }
     },
     {
+      "imagen": "../../../assets/darksouls armas2/Blacksmith Hammer.png",
       "requirements": {
         "faith": 0,
         "strength": 14,
@@ -466,6 +480,7 @@
       }
     },
     {
+      "imagen": "../../../assets/darksouls armas2/Broadsword.png",
       "requirements": {
         "faith": 0,
         "strength": 10,
@@ -497,6 +512,7 @@
       }
     },
     {
+      "imagen": "../../../assets/darksouls armas2/Broken Straight Sword.png",
       "requirements": {
         "faith": 0,
         "strength": 8,
@@ -528,6 +544,7 @@
       }
     },
     {
+      "imagen": "../../../assets/darksouls armas2/Butcher Knife.png",
       "requirements": {
         "faith": 0,
         "strength": 24,
@@ -559,6 +576,7 @@
       }
     },
     {
+      "imagen": "../../../assets/darksouls armas2/Caestus.png",
       "requirements": {
         "faith": 0,
         "strength": 5,
@@ -590,6 +608,7 @@
       }
     },
     {
+      "imagen": "../../../assets/darksouls armas2/Channeler's Trident.png",
       "requirements": {
         "faith": 0,
         "strength": 16,
@@ -621,6 +640,7 @@
       }
     },
     {
+      "imagen": "../../../assets/darksouls armas2/Chaos Blade.png",
       "requirements": {
         "faith": 0,
         "strength": 16,
@@ -652,6 +672,7 @@
       }
     },
     {
+      "imagen": "../../../assets/darksouls armas2/Claw.png",
       "requirements": {
         "faith": 0,
         "strength": 6,
@@ -683,37 +704,7 @@
       }
     },
     {
-      "requirements": {
-        "faith": 0,
-        "strength": 16,
-        "intelligence": 0,
-        "dexterity": 10
-      },
-      "damage_reduction": {
-        "physical": 60,
-        "magic": 10,
-        "lightning": 40,
-        "fire": 40
-      },
-      "weapon_type": "greatsword",
-      "weight": 6,
-      "damage": {
-        "physical": 103,
-        "magic": 0,
-        "lightning": 0,
-        "fire": 0
-      },
-      "durability": 200,
-      "name": "Claymore",
-      "attack_type": "regular/thrust",
-      "bonus": {
-        "faith": null,
-        "strength": "C",
-        "intelligence": null,
-        "dexterity": "C"
-      }
-    },
-    {
+      "imagen": "../../../assets/darksouls armas2/Club.png",
       "requirements": {
         "faith": 0,
         "strength": 10,
@@ -745,6 +736,391 @@
       }
     },
     {
+      "imagen": "../../../assets/darksouls armas2/Composite Bow.png",
+      "requirements": {
+        "faith": 0,
+        "strength": 11,
+        "intelligence": 0,
+        "dexterity": 12
+      },
+      "damage_reduction": {
+        "physical": 0,
+        "magic": 0,
+        "lightning": 0,
+        "fire": 0
+      },
+      "weapon_type": "bow",
+      "weight": 1,
+      "damage": {
+        "physical": 55,
+        "magic": 0,
+        "lightning": 0,
+        "fire": 0
+      },
+      "durability": 100,
+      "name": "Composite Bow",
+      "attack_type": "none",
+      "bonus": {
+        "faith": null,
+        "strength": "C",
+        "intelligence": null,
+        "dexterity": "C"
+      }
+    },
+    {
+      "imagen": "../../../assets/darksouls armas2/Blacksmith Giant Hammer.png",
+      "requirements": {
+        "faith": 0,
+        "strength": 16,
+        "intelligence": 0,
+        "dexterity": 0
+      },
+      "damage_reduction": {
+        "physical": 45,
+        "magic": 10,
+        "lightning": 30,
+        "fire": 30
+      },
+      "weapon_type": "hammer",
+      "weight": 6,
+      "damage": {
+        "physical": 120,
+        "magic": 0,
+        "lightning": 200,
+        "fire": 0
+      },
+      "durability": 250,
+      "name": "Blacksmith Giant Hammer",
+      "attack_type": "strike",
+      "bonus": {
+        "faith": null,
+        "strength": "D",
+        "intelligence": null,
+        "dexterity": null
+      }
+    },
+    {
+      "imagen": "../../../assets/darksouls armas2/Blacksmith Hammer.png",
+      "requirements": {
+        "faith": 0,
+        "strength": 14,
+        "intelligence": 0,
+        "dexterity": 0
+      },
+      "damage_reduction": {
+        "physical": 45,
+        "magic": 10,
+        "lightning": 30,
+        "fire": 30
+      },
+      "weapon_type": "hammer",
+      "weight": 5,
+      "damage": {
+        "physical": 87,
+        "magic": 0,
+        "lightning": 0,
+        "fire": 0
+      },
+      "durability": 250,
+      "name": "Blacksmith Hammer",
+      "attack_type": "strike",
+      "bonus": {
+        "faith": null,
+        "strength": "C",
+        "intelligence": null,
+        "dexterity": null
+      }
+    },
+    {
+      "imagen": "../../../assets/darksouls armas2/Broadsword.png",
+      "requirements": {
+        "faith": 0,
+        "strength": 10,
+        "intelligence": 0,
+        "dexterity": 10
+      },
+      "damage_reduction": {
+        "physical": 50,
+        "magic": 10,
+        "lightning": 35,
+        "fire": 35
+      },
+      "weapon_type": "straight-sword",
+      "weight": 3,
+      "damage": {
+        "physical": 82,
+        "magic": 0,
+        "lightning": 0,
+        "fire": 0
+      },
+      "durability": 200,
+      "name": "Broadsword",
+      "attack_type": "regular",
+      "bonus": {
+        "faith": null,
+        "strength": "C",
+        "intelligence": null,
+        "dexterity": "C"
+      }
+    },
+    {
+      "imagen": "../../../assets/darksouls armas2/Broken Straight Sword.png",
+      "requirements": {
+        "faith": 0,
+        "strength": 8,
+        "intelligence": 0,
+        "dexterity": 8
+      },
+      "damage_reduction": {
+        "physical": 20,
+        "magic": 5,
+        "lightning": 15,
+        "fire": 15
+      },
+      "weapon_type": "straight-sword",
+      "weight": 2,
+      "damage": {
+        "physical": 40,
+        "magic": 0,
+        "lightning": 0,
+        "fire": 0
+      },
+      "durability": 200,
+      "name": "Broken Straight Sword",
+      "attack_type": "regular/thrust",
+      "bonus": {
+        "faith": null,
+        "strength": "D",
+        "intelligence": null,
+        "dexterity": "D"
+      }
+    },
+    {
+      "imagen": "../../../assets/darksouls armas2/Butcher Knife.png",
+      "requirements": {
+        "faith": 0,
+        "strength": 24,
+        "intelligence": 0,
+        "dexterity": 0
+      },
+      "damage_reduction": {
+        "physical": 55,
+        "magic": 10,
+        "lightning": 40,
+        "fire": 40
+      },
+      "weapon_type": "axe",
+      "weight": 10,
+      "damage": {
+        "physical": 90,
+        "magic": 0,
+        "lightning": 0,
+        "fire": 0
+      },
+      "durability": 250,
+      "name": "Butcher Knife",
+      "attack_type": "regular",
+      "bonus": {
+        "faith": null,
+        "strength": "B",
+        "intelligence": null,
+        "dexterity": null
+      }
+    },
+    {
+      "imagen": "../../../assets/darksouls armas2/Caestus.png",
+      "requirements": {
+        "faith": 0,
+        "strength": 5,
+        "intelligence": 0,
+        "dexterity": 8
+      },
+      "damage_reduction": {
+        "physical": 0,
+        "magic": 0,
+        "lightning": 0,
+        "fire": 0
+      },
+      "weapon_type": "gauntlet",
+      "weight": 0.5,
+      "damage": {
+        "physical": 66,
+        "magic": 0,
+        "lightning": 0,
+        "fire": 0
+      },
+      "durability": 300,
+      "name": "Caestus",
+      "attack_type": "strike",
+      "bonus": {
+        "faith": null,
+        "strength": "C",
+        "intelligence": null,
+        "dexterity": "C"
+      }
+    },
+    {
+      "imagen": "../../../assets/darksouls armas2/Channeler's Trident.png",
+      "requirements": {
+        "faith": 0,
+        "strength": 16,
+        "intelligence": 24,
+        "dexterity": 16
+      },
+      "damage_reduction": {
+        "physical": 40,
+        "magic": 10,
+        "lightning": 30,
+        "fire": 30
+      },
+      "weapon_type": "spear",
+      "weight": 6,
+      "damage": {
+        "physical": 70,
+        "magic": 115,
+        "lightning": 0,
+        "fire": 0
+      },
+      "durability": 240,
+      "name": "Channeler's Trident",
+      "attack_type": "thrust",
+      "bonus": {
+        "faith": null,
+        "strength": "E",
+        "intelligence": "B",
+        "dexterity": "C"
+      }
+    },
+    {
+      "imagen": "../../../assets/darksouls armas2/Chaos Blade.png",
+      "requirements": {
+        "faith": 0,
+        "strength": 16,
+        "intelligence": 0,
+        "dexterity": 14
+      },
+      "damage_reduction": {
+        "physical": 45,
+        "magic": 10,
+        "lightning": 30,
+        "fire": 30
+      },
+      "weapon_type": "katana",
+      "weight": 6,
+      "damage": {
+        "physical": 144,
+        "magic": 0,
+        "lightning": 0,
+        "fire": 0
+      },
+      "durability": 120,
+      "name": "Chaos Blade",
+      "attack_type": "slash",
+      "bonus": {
+        "faith": null,
+        "strength": null,
+        "intelligence": null,
+        "dexterity": "B"
+      }
+    },
+    {
+      "imagen": "../../../assets/darksouls armas2/Claw.png",
+      "requirements": {
+        "faith": 0,
+        "strength": 6,
+        "intelligence": 0,
+        "dexterity": 14
+      },
+      "damage_reduction": {
+        "physical": 0,
+        "magic": 0,
+        "lightning": 0,
+        "fire": 0
+      },
+      "weapon_type": "gauntlet",
+      "weight": 1,
+      "damage": {
+        "physical": 72,
+        "magic": 0,
+        "lightning": 0,
+        "fire": 0
+      },
+      "durability": 150,
+      "name": "Claw",
+      "attack_type": "slash",
+      "bonus": {
+        "faith": null,
+        "strength": "E",
+        "intelligence": null,
+        "dexterity": "B"
+      }
+    },
+    {
+      "imagen": "../../../assets/darksouls armas2/Claymore.png",
+      "requirements": {
+        "faith": 0,
+        "strength": 16,
+        "intelligence": 0,
+        "dexterity": 10
+      },
+      "damage_reduction": {
+        "physical": 60,
+        "magic": 10,
+        "lightning": 40,
+        "fire": 40
+      },
+      "weapon_type": "greatsword",
+      "weight": 6,
+      "damage": {
+        "physical": 103,
+        "magic": 0,
+        "lightning": 0,
+        "fire": 0
+      },
+      "durability": 200,
+      "name": "Claymore",
+      "attack_type": "regular/thrust",
+      "bonus": {
+        "faith": null,
+        "strength": "C",
+        "intelligence": null,
+        "dexterity": "C"
+      }
+    },
+    {
+      "imagen": "../../../assets/darksouls armas2/Club.png",
+      "requirements": {
+        "faith": 0,
+        "strength": 10,
+        "intelligence": 0,
+        "dexterity": 0
+      },
+      "damage_reduction": {
+        "physical": 45,
+        "magic": 10,
+        "lightning": 30,
+        "fire": 30
+      },
+      "weapon_type": "hammer",
+      "weight": 3,
+      "damage": {
+        "physical": 87,
+        "magic": 0,
+        "lightning": 0,
+        "fire": 0
+      },
+      "durability": 250,
+      "name": "Club",
+      "attack_type": "strike",
+      "bonus": {
+        "faith": null,
+        "strength": "A",
+        "intelligence": null,
+        "dexterity": null
+      }
+    },
+    {
+      "imagen": "../../../assets/darksouls armas2/Composite Bow.png",
       "requirements": {
         "faith": 0,
         "strength": 11,
@@ -777,502 +1153,6 @@
     },
     {
       "requirements": {
-        "faith": 16,
-        "strength": 18,
-        "intelligence": 0,
-        "dexterity": 12
-      },
-      "damage_reduction": {
-        "physical": 55,
-        "magic": 10,
-        "lightning": 40,
-        "fire": 40
-      },
-      "weapon_type": "axe",
-      "weight": 7,
-      "damage": {
-        "physical": 115,
-        "magic": 115,
-        "lightning": 0,
-        "fire": 0
-      },
-      "durability": 180,
-      "name": "Crescent Axe",
-      "attack_type": "regular",
-      "bonus": {
-        "faith": "B",
-        "strength": "D",
-        "intelligence": null,
-        "dexterity": "D"
-      }
-    },
-    {
-      "requirements": {
-        "faith": 0,
-        "strength": 5,
-        "intelligence": 0,
-        "dexterity": 8
-      },
-      "damage_reduction": {
-        "physical": 45,
-        "magic": 10,
-        "lightning": 30,
-        "fire": 30
-      },
-      "weapon_type": "dagger",
-      "weight": 0.5,
-      "damage": {
-        "physical": 56,
-        "magic": 0,
-        "lightning": 0,
-        "fire": 0
-      },
-      "durability": 200,
-      "name": "Dagger",
-      "attack_type": "thrust/slash",
-      "bonus": {
-        "faith": null,
-        "strength": "E",
-        "intelligence": null,
-        "dexterity": "B"
-      }
-    },
-    {
-      "requirements": {
-        "faith": 0,
-        "strength": 6,
-        "intelligence": 0,
-        "dexterity": 25
-      },
-      "damage_reduction": {
-        "physical": 45,
-        "magic": 10,
-        "lightning": 30,
-        "fire": 30
-      },
-      "weapon_type": "dagger",
-      "weight": 1,
-      "damage": {
-        "physical": 75,
-        "magic": 0,
-        "lightning": 0,
-        "fire": 0
-      },
-      "durability": 120,
-      "name": "Dark Silver Tracer",
-      "attack_type": "thrust/slash",
-      "bonus": {
-        "faith": null,
-        "strength": "E",
-        "intelligence": null,
-        "dexterity": "S"
-      }
-    },
-    {
-      "requirements": {
-        "faith": 0,
-        "strength": 16,
-        "intelligence": 0,
-        "dexterity": 16
-      },
-      "damage_reduction": {
-        "physical": 50,
-        "magic": 10,
-        "lightning": 35,
-        "fire": 35
-      },
-      "weapon_type": "straight-sword",
-      "weight": 6,
-      "damage": {
-        "physical": 82,
-        "magic": 0,
-        "lightning": 0,
-        "fire": 0
-      },
-      "durability": 200,
-      "name": "Darksword",
-      "attack_type": "regular",
-      "bonus": {
-        "faith": null,
-        "strength": "C",
-        "intelligence": null,
-        "dexterity": "C"
-      }
-    },
-    {
-      "requirements": {
-        "faith": 16,
-        "strength": 7,
-        "intelligence": 0,
-        "dexterity": 16
-      },
-      "damage_reduction": {
-        "physical": 0,
-        "magic": 0,
-        "lightning": 0,
-        "fire": 0
-      },
-      "weapon_type": "bow",
-      "weight": 1,
-      "damage": {
-        "physical": 85,
-        "magic": 85,
-        "lightning": 0,
-        "fire": 0
-      },
-      "durability": 400,
-      "name": "Darkmoon Bow",
-      "attack_type": "none",
-      "bonus": {
-        "faith": "D",
-        "strength": "E",
-        "intelligence": null,
-        "dexterity": "D"
-      }
-    },
-    {
-      "requirements": {
-        "faith": 0,
-        "strength": 40,
-        "intelligence": 0,
-        "dexterity": 0
-      },
-      "damage_reduction": {
-        "physical": 70,
-        "magic": 10,
-        "lightning": 50,
-        "fire": 50
-      },
-      "weapon_type": "ultra-greatsword",
-      "weight": 18,
-      "damage": {
-        "physical": 133,
-        "magic": 0,
-        "lightning": 0,
-        "fire": 0
-      },
-      "durability": 600,
-      "name": "Demon Great Machete",
-      "attack_type": "regular",
-      "bonus": {
-        "faith": null,
-        "strength": "B",
-        "intelligence": null,
-        "dexterity": null
-      }
-    },
-    {
-      "requirements": {
-        "faith": 0,
-        "strength": 46,
-        "intelligence": 0,
-        "dexterity": 0
-      },
-      "damage_reduction": {
-        "physical": 50,
-        "magic": 10,
-        "lightning": 35,
-        "fire": 35
-      },
-      "weapon_type": "great-hammer",
-      "weight": 22,
-      "damage": {
-        "physical": 138,
-        "magic": 0,
-        "lightning": 0,
-        "fire": 0
-      },
-      "durability": 600,
-      "name": "Demon's Great Hammer",
-      "attack_type": "strike",
-      "bonus": {
-        "faith": null,
-        "strength": "B",
-        "intelligence": null,
-        "dexterity": null
-      }
-    },
-    {
-      "requirements": {
-        "faith": 0,
-        "strength": 46,
-        "intelligence": 0,
-        "dexterity": 0
-      },
-      "damage_reduction": {
-        "physical": 55,
-        "magic": 10,
-        "lightning": 40,
-        "fire": 40
-      },
-      "weapon_type": "greataxe",
-      "weight": 22,
-      "damage": {
-        "physical": 114,
-        "magic": 0,
-        "lightning": 0,
-        "fire": 0
-      },
-      "durability": 600,
-      "name": "Demon's Greataxe",
-      "attack_type": "regular",
-      "bonus": {
-        "faith": null,
-        "strength": "A",
-        "intelligence": null,
-        "dexterity": null
-      }
-    },
-    {
-      "requirements": {
-        "faith": 0,
-        "strength": 12,
-        "intelligence": 0,
-        "dexterity": 10
-      },
-      "damage_reduction": {
-        "physical": 40,
-        "magic": 10,
-        "lightning": 30,
-        "fire": 30
-      },
-      "weapon_type": "spear",
-      "weight": 4,
-      "damage": {
-        "physical": 100,
-        "magic": 0,
-        "lightning": 100,
-        "fire": 0
-      },
-      "durability": 400,
-      "name": "Demon's Spear",
-      "attack_type": "thrust",
-      "bonus": {
-        "faith": null,
-        "strength": "C",
-        "intelligence": null,
-        "dexterity": "C"
-      }
-    },
-    {
-      "requirements": {
-        "faith": 0,
-        "strength": 20,
-        "intelligence": 0,
-        "dexterity": 0
-      },
-      "damage_reduction": {
-        "physical": 0,
-        "magic": 0,
-        "lightning": 0,
-        "fire": 0
-      },
-      "weapon_type": "gauntlet",
-      "weight": 8,
-      "damage": {
-        "physical": 95,
-        "magic": 0,
-        "lightning": 0,
-        "fire": 0
-      },
-      "durability": 999,
-      "name": "Dragon Bone Fist",
-      "attack_type": "strike",
-      "bonus": {
-        "faith": null,
-        "strength": "A",
-        "intelligence": null,
-        "dexterity": null
-      }
-    },
-    {
-      "requirements": {
-        "faith": 0,
-        "strength": 50,
-        "intelligence": 0,
-        "dexterity": 10
-      },
-      "damage_reduction": {
-        "physical": 70,
-        "magic": 10,
-        "lightning": 50,
-        "fire": 50
-      },
-      "weapon_type": "ultra-greatsword",
-      "weight": 24,
-      "damage": {
-        "physical": 390,
-        "magic": 0,
-        "lightning": 0,
-        "fire": 0
-      },
-      "durability": 400,
-      "name": "Dragon Greatsword",
-      "attack_type": "regular",
-      "bonus": {
-        "faith": null,
-        "strength": null,
-        "intelligence": null,
-        "dexterity": null
-      }
-    },
-    {
-      "requirements": {
-        "faith": 0,
-        "strength": 50,
-        "intelligence": 0,
-        "dexterity": 8
-      },
-      "damage_reduction": {
-        "physical": 55,
-        "magic": 10,
-        "lightning": 40,
-        "fire": 40
-      },
-      "weapon_type": "greataxe",
-      "weight": 24,
-      "damage": {
-        "physical": 380,
-        "magic": 0,
-        "lightning": 0,
-        "fire": 0
-      },
-      "durability": 400,
-      "name": "Dragon King Greataxe",
-      "attack_type": "regular",
-      "bonus": {
-        "faith": null,
-        "strength": null,
-        "intelligence": null,
-        "dexterity": null
-      }
-    },
-    {
-      "requirements": {
-        "faith": 0,
-        "strength": 24,
-        "intelligence": 0,
-        "dexterity": 24
-      },
-      "damage_reduction": {
-        "physical": 40,
-        "magic": 10,
-        "lightning": 30,
-        "fire": 30
-      },
-      "weapon_type": "spear",
-      "weight": 10,
-      "damage": {
-        "physical": 95,
-        "magic": 0,
-        "lightning": 65,
-        "fire": 0
-      },
-      "durability": 300,
-      "name": "Dragonslayer Spear",
-      "attack_type": "thrust",
-      "bonus": {
-        "faith": "B",
-        "strength": "C",
-        "intelligence": null,
-        "dexterity": "B"
-      }
-    },
-    {
-      "requirements": {
-        "faith": 0,
-        "strength": 40,
-        "intelligence": 0,
-        "dexterity": 0
-      },
-      "damage_reduction": {
-        "physical": 50,
-        "magic": 10,
-        "lightning": 35,
-        "fire": 35
-      },
-      "weapon_type": "great-hammer",
-      "weight": 18,
-      "damage": {
-        "physical": 290,
-        "magic": 0,
-        "lightning": 0,
-        "fire": 0
-      },
-      "durability": 999,
-      "name": "Dragon Tooth",
-      "attack_type": "strike",
-      "bonus": {
-        "faith": null,
-        "strength": "D",
-        "intelligence": null,
-        "dexterity": null
-      }
-    },
-    {
-      "requirements": {
-        "faith": 0,
-        "strength": 20,
-        "intelligence": 0,
-        "dexterity": 20
-      },
-      "damage_reduction": {
-        "physical": 0,
-        "magic": 0,
-        "lightning": 0,
-        "fire": 0
-      },
-      "weapon_type": "bow",
-      "weight": 10,
-      "damage": {
-        "physical": 90,
-        "magic": 0,
-        "lightning": 0,
-        "fire": 0
-      },
-      "durability": 100,
-      "name": "Dragonslayer Greatbow",
-      "attack_type": "none",
-      "bonus": {
-        "faith": null,
-        "strength": "C",
-        "intelligence": null,
-        "dexterity": "C"
-      }
-    },
-    {
-      "requirements": {
-        "faith": 0,
-        "strength": 16,
-        "intelligence": 0,
-        "dexterity": 10
-      },
-      "damage_reduction": {
-        "physical": 50,
-        "magic": 10,
-        "lightning": 35,
-        "fire": 35
-      },
-      "weapon_type": "straight-sword",
-      "weight": 6,
-      "damage": {
-        "physical": 200,
-        "magic": 0,
-        "lightning": 0,
-        "fire": 0
-      },
-      "durability": 360,
-      "name": "Drake Sword",
-      "attack_type": "regular",
-      "bonus": {
-        "faith": null,
-        "strength": null,
-        "intelligence": null,
-        "dexterity": null
-      }
-    },
-    {
-      "requirements": {
         "faith": 0,
         "strength": 10,
         "intelligence": 0,
@@ -1300,7 +1180,8 @@
         "strength": "D",
         "intelligence": null,
         "dexterity": "C"
-      }
+      },
+      "imagen": "../../../assets/darksouls armas2/Estoc.png"
     },
     {
       "requirements": {
@@ -1331,7 +1212,8 @@
         "strength": "E",
         "intelligence": null,
         "dexterity": "B"
-      }
+      },
+      "imagen": "../../../assets/darksouls armas2/Falchion.png"
     },
     {
       "requirements": {
@@ -1362,7 +1244,8 @@
         "strength": "D",
         "intelligence": null,
         "dexterity": "C"
-      }
+      },
+      "imagen": "../../../assets/darksouls armas2/Flamberge.png"
     },
     {
       "requirements": {
@@ -1393,7 +1276,8 @@
         "strength": "D",
         "intelligence": null,
         "dexterity": "C"
-      }
+      },
+      "imagen": "../../../assets/darksouls armas2/Four-Pronged Plow.png"
     },
     {
       "requirements": {
@@ -1424,7 +1308,8 @@
         "strength": "D",
         "intelligence": null,
         "dexterity": "C"
-      }
+      },
+      "imagen": "../../../assets/darksouls armas2/Gargoyle Tail Axe.png"
     },
     {
       "requirements": {
@@ -1455,7 +1340,8 @@
         "strength": "D",
         "intelligence": null,
         "dexterity": "D"
-      }
+      },
+      "imagen": "../../../assets/darksouls armas2/Gargoyle's Halberd.png"
     },
     {
       "requirements": {
@@ -1486,7 +1372,8 @@
         "strength": "E",
         "intelligence": null,
         "dexterity": null
-      }
+      },
+      "imagen": "../../../assets/darksouls armas2/Ghost Blade.png"
     },
     {
       "requirements": {
@@ -1517,7 +1404,8 @@
         "strength": "D",
         "intelligence": null,
         "dexterity": "D"
-      }
+      },
+      "imagen": "../../../assets/darksouls armas2/Giant's Halberd.png"
     },
     {
       "requirements": {
@@ -1548,7 +1436,8 @@
         "strength": "E",
         "intelligence": null,
         "dexterity": "A"
-      }
+      },
+      "imagen": "../../../assets/darksouls armas2/Gold Tracer.png"
     },
     {
       "requirements": {
@@ -1579,7 +1468,8 @@
         "strength": "C",
         "intelligence": null,
         "dexterity": "E"
-      }
+      },
+      "imagen": "../../../assets/darksouls armas2/Golem Axe.png"
     },
     {
       "requirements": {
@@ -1610,7 +1500,8 @@
         "strength": "B",
         "intelligence": null,
         "dexterity": "C"
-      }
+      },
+      "imagen": "../../../assets/darksouls armas2/Gough's Greatbow.png"
     },
     {
       "requirements": {
@@ -1641,7 +1532,8 @@
         "strength": "B",
         "intelligence": null,
         "dexterity": null
-      }
+      },
+      "imagen": "../../../assets/darksouls armas2/Grant.png"
     },
     {
       "requirements": {
@@ -1672,7 +1564,8 @@
         "strength": "E",
         "intelligence": null,
         "dexterity": "E"
-      }
+      },
+      "imagen": "../../../assets/darksouls armas2/Gravelord Sword.png"
     },
     {
       "requirements": {
@@ -1703,7 +1596,8 @@
         "strength": "B",
         "intelligence": null,
         "dexterity": null
-      }
+      },
+      "imagen": "../../../assets/darksouls armas2/Great Club.png"
     },
     {
       "requirements": {
@@ -1734,7 +1628,8 @@
         "strength": "D",
         "intelligence": null,
         "dexterity": "D"
-      }
+      },
+      "imagen": "../../../assets/darksouls armas2/Great Lord Greatsword.png"
     },
     {
       "requirements": {
@@ -1765,7 +1660,8 @@
         "strength": "E",
         "intelligence": null,
         "dexterity": "B"
-      }
+      },
+      "imagen": "../../../assets/darksouls armas2/Great Scythe.png"
     },
     {
       "requirements": {
@@ -1796,7 +1692,8 @@
         "strength": "C",
         "intelligence": null,
         "dexterity": "E"
-      }
+      },
+      "imagen": "../../../assets/darksouls armas2/Greataxe.png"
     },
     {
       "requirements": {
@@ -1827,7 +1724,8 @@
         "strength": "C",
         "intelligence": null,
         "dexterity": "D"
-      }
+      },
+      "imagen": "../../../assets/darksouls armas2/Greatsword.png"
     },
     {
       "requirements": {
@@ -1858,7 +1756,8 @@
         "strength": "C",
         "intelligence": "B",
         "dexterity": "C"
-      }
+      },
+      "imagen": "../../../assets/darksouls armas2/Greatsword of Artorias.png"
     },
     {
       "requirements": {
@@ -1889,7 +1788,8 @@
         "strength": "C",
         "intelligence": "C",
         "dexterity": "C"
-      }
+      },
+      "imagen": "../../../assets/darksouls armas2/Greatsword of Artorias (Cursed).png"
     },
     {
       "requirements": {
@@ -1920,7 +1820,8 @@
         "strength": null,
         "intelligence": null,
         "dexterity": "C"
-      }
+      },
+      "imagen": "../../../assets/darksouls armas2/Guardian Tail.png"
     },
     {
       "requirements": {
@@ -1951,7 +1852,8 @@
         "strength": "D",
         "intelligence": null,
         "dexterity": "C"
-      }
+      },
+      "imagen": "../../../assets/darksouls armas2/Halberd.png"
     },
     {
       "requirements": {
@@ -1982,7 +1884,8 @@
         "strength": "C",
         "intelligence": null,
         "dexterity": null
-      }
+      },
+      "imagen": "../../../assets/darksouls armas2/Hammer of Vamos.png"
     },
     {
       "requirements": {
@@ -2013,7 +1916,8 @@
         "strength": "C",
         "intelligence": null,
         "dexterity": "D"
-      }
+      },
+      "imagen": "../../../assets/darksouls armas2/Hand Axe.png"
     },
     {
       "requirements": {
@@ -2044,7 +1948,8 @@
         "strength": null,
         "intelligence": null,
         "dexterity": null
-      }
+      },
+      "imagen": "../../../assets/darksouls armas2/Heavy Crossbow.png"
     },
     {
       "requirements": {
@@ -2075,7 +1980,8 @@
         "strength": null,
         "intelligence": null,
         "dexterity": "B"
-      }
+      },
+      "imagen": "../../../assets/darksouls armas2/Iaito.png"
     },
     {
       "requirements": {
@@ -2106,7 +2012,8 @@
         "strength": "E",
         "intelligence": null,
         "dexterity": null
-      }
+      },
+      "imagen": "../../../assets/darksouls armas2/Jagged Ghost Blade.png"
     },
     {
       "requirements": {
@@ -2137,7 +2044,8 @@
         "strength": "A",
         "intelligence": null,
         "dexterity": null
-      }
+      },
+      "imagen": "../../../assets/darksouls armas2/Large Club.png"
     },
     {
       "requirements": {
@@ -2168,7 +2076,8 @@
         "strength": "E",
         "intelligence": null,
         "dexterity": "B"
-      }
+      },
+      "imagen": "../../../assets/darksouls armas2/Lifehunt Scythe.png"
     },
     {
       "requirements": {
@@ -2199,7 +2108,8 @@
         "strength": null,
         "intelligence": null,
         "dexterity": null
-      }
+      },
+      "imagen": "../../../assets/darksouls armas2/Light Crossbow.png"
     },
     {
       "requirements": {
@@ -2230,7 +2140,8 @@
         "strength": "D",
         "intelligence": null,
         "dexterity": "A"
-      }
+      },
+      "imagen": "../../../assets/darksouls armas2/Longbow.png"
     },
     {
       "requirements": {
@@ -2261,7 +2172,8 @@
         "strength": "C",
         "intelligence": null,
         "dexterity": "C"
-      }
+      },
+      "imagen": "../../../assets/darksouls armas2/Longsword.png"
     },
     {
       "requirements": {
@@ -2292,7 +2204,8 @@
         "strength": "D",
         "intelligence": null,
         "dexterity": "D"
-      }
+      },
+      "imagen": "../../../assets/darksouls armas2/Lucerne.png"
     },
     {
       "requirements": {
@@ -2323,7 +2236,8 @@
         "strength": "B",
         "intelligence": null,
         "dexterity": null
-      }
+      },
+      "imagen": "../../../assets/darksouls armas2/Mace.png"
     },
     {
       "requirements": {
@@ -2354,7 +2268,8 @@
         "strength": "D",
         "intelligence": null,
         "dexterity": "C"
-      }
+      },
+      "imagen": "../../../assets/darksouls armas2/Mail Breaker.png"
     },
     {
       "requirements": {
@@ -2385,7 +2300,8 @@
         "strength": "B",
         "intelligence": null,
         "dexterity": null
-      }
+      },
+      "imagen": "../../../assets/darksouls armas2/Man-Serpent Greatsword.png"
     },
     {
       "requirements": {
@@ -2416,1184 +2332,1327 @@
         "strength": null,
         "intelligence": "B",
         "dexterity": null
-      }
+      },
+      "imagen": "../../../assets/darksouls armas2/Moonlight Butterfly Horn.png"
     },
-    {
-      "requirements": {
-        "faith": 0,
-        "strength": 16,
-        "intelligence": 28,
-        "dexterity": 10
+      {
+        "imagen": "../../../assets/darksouls armas2/Moonlight Greatsword.png",
+        "requirements": {
+          "faith": 0,
+          "strength": 16,
+          "intelligence": 28,
+          "dexterity": 10
+        },
+        "damage_reduction": {
+          "physical": 60,
+          "magic": 10,
+          "lightning": 40,
+          "fire": 40
+        },
+        "weapon_type": "greatsword",
+        "weight": 6,
+        "damage": {
+          "physical": 0,
+          "magic": 132,
+          "lightning": 0,
+          "fire": 0
+        },
+        "durability": 300,
+        "name": "Moonlight Greatsword",
+        "attack_type": "regular",
+        "bonus": {
+          "faith": null,
+          "strength": null,
+          "intelligence": "A",
+          "dexterity": null
+        }
+        
       },
-      "damage_reduction": {
-        "physical": 60,
-        "magic": 10,
-        "lightning": 40,
-        "fire": 40
+      {
+        "requirements": {
+          "faith": 0,
+          "strength": 11,
+          "intelligence": 0,
+          "dexterity": 0
+        },
+        "damage_reduction": {
+          "physical": 45,
+          "magic": 10,
+          "lightning": 30,
+          "fire": 30
+        },
+        "weapon_type": "hammer",
+        "weight": 4,
+        "damage": {
+          "physical": 83,
+          "magic": 0,
+          "lightning": 0,
+          "fire": 0
+        },
+        "durability": 180,
+        "name": "Morning Star",
+        "attack_type": "strike",
+        "bonus": {
+          "faith": null,
+          "strength": "C",
+          "intelligence": null,
+          "dexterity": null
+        },
+        "imagen": "../../../assets/darksouls armas2/Morning Star.png"
       },
-      "weapon_type": "greatsword",
-      "weight": 6,
-      "damage": {
-        "physical": 0,
-        "magic": 132,
-        "lightning": 0,
-        "fire": 0
+      {
+        "requirements": {
+          "faith": 0,
+          "strength": 28,
+          "intelligence": 0,
+          "dexterity": 13
+        },
+        "damage_reduction": {
+          "physical": 60,
+          "magic": 10,
+          "lightning": 40,
+          "fire": 40
+        },
+        "weapon_type": "curved-greatsword",
+        "weight": 12,
+        "damage": {
+          "physical": 113,
+          "magic": 0,
+          "lightning": 0,
+          "fire": 0
+        },
+        "durability": 180,
+        "name": "Murakumo",
+        "attack_type": "slash",
+        "bonus": {
+          "faith": null,
+          "strength": "E",
+          "intelligence": null,
+          "dexterity": "B"
+        },
+        "imagen": "../../../assets/darksouls armas2/Murakumo.png"
       },
-      "durability": 300,
-      "name": "Moonlight Greatsword",
-      "attack_type": "regular",
-      "bonus": {
-        "faith": null,
-        "strength": null,
-        "intelligence": "A",
-        "dexterity": null
+      {
+        "requirements": {
+          "faith": 0,
+          "strength": 8,
+          "intelligence": 0,
+          "dexterity": 16
+        },
+        "damage_reduction": {
+          "physical": 30,
+          "magic": 10,
+          "lightning": 20,
+          "fire": 20
+        },
+        "weapon_type": "whip",
+        "weight": 2,
+        "damage": {
+          "physical": 76,
+          "magic": 0,
+          "lightning": 0,
+          "fire": 0
+        },
+        "durability": 200,
+        "name": "Notched Whip",
+        "attack_type": "regular",
+        "bonus": {
+          "faith": null,
+          "strength": null,
+          "intelligence": null,
+          "dexterity": "B"
+        },
+        "imagen": "../../../assets/darksouls armas2/Notched Whip.png"
+      },
+      {
+        "requirements": {
+          "faith": 0,
+          "strength": 20,
+          "intelligence": 0,
+          "dexterity": 16
+        },
+        "damage_reduction": {
+          "physical": 60,
+          "magic": 10,
+          "lightning": 40,
+          "fire": 40
+        },
+        "weapon_type": "greatsword",
+        "weight": 8,
+        "damage": {
+          "physical": 320,
+          "magic": 0,
+          "lightning": 0,
+          "fire": 0
+        },
+        "durability": 350,
+        "name": "Obsidian Greatsword",
+        "attack_type": "regular",
+        "bonus": {
+          "faith": null,
+          "strength": null,
+          "intelligence": null,
+          "dexterity": null
+        },
+        "imagen": "../../../assets/darksouls armas2/Obsidian Greatsword.png"
+      },
+      {
+        "requirements": {
+          "faith": 0,
+          "strength": 7,
+          "intelligence": 0,
+          "dexterity": 20
+        },
+        "damage_reduction": {
+          "physical": 45,
+          "magic": 10,
+          "lightning": 30,
+          "fire": 30
+        },
+        "weapon_type": "curved-sword",
+        "weight": 1.5,
+        "damage": {
+          "physical": 76,
+          "magic": 0,
+          "lightning": 0,
+          "fire": 0
+        },
+        "durability": 100,
+        "name": "Painting Guardian Sword",
+        "attack_type": "slash",
+        "bonus": {
+          "faith": null,
+          "strength": "E",
+          "intelligence": null,
+          "dexterity": "A"
+        },
+        "imagen": "../../../assets/darksouls armas2/Painting Guardian Sword.png"
+      },
+      {
+        "requirements": {
+          "faith": 0,
+          "strength": 5,
+          "intelligence": 0,
+          "dexterity": 14
+        },
+        "damage_reduction": {
+          "physical": 45,
+          "magic": 10,
+          "lightning": 30,
+          "fire": 30
+        },
+        "weapon_type": "dagger",
+        "weight": 0.5,
+        "damage": {
+          "physical": 135,
+          "magic": 0,
+          "lightning": 0,
+          "fire": 0
+        },
+        "durability": 200,
+        "name": "Parrying Dagger",
+        "attack_type": "thrust/slash",
+        "bonus": {
+          "faith": null,
+          "strength": "E",
+          "intelligence": null,
+          "dexterity": "A"
+        },
+        "imagen": "../../../assets/darksouls armas2/Parrying Dagger.png"
+      },
+      {
+        "requirements": {
+          "faith": 0,
+          "strength": 13,
+          "intelligence": 0,
+          "dexterity": 12
+        },
+        "damage_reduction": {
+          "physical": 40,
+          "magic": 10,
+          "lightning": 30,
+          "fire": 30
+        },
+        "weapon_type": "spear",
+        "weight": 4.5,
+        "damage": {
+          "physical": 128,
+          "magic": 0,
+          "lightning": 0,
+          "fire": 0
+        },
+        "durability": 160,
+        "name": "Partizan",
+        "attack_type": "regular/thrust",
+        "bonus": {
+          "faith": null,
+          "strength": "D",
+          "intelligence": null,
+          "dexterity": "C"
+        },
+        "imagen": "../../../assets/darksouls armas2/Partizan.png"
+      },
+      {
+        "requirements": {
+          "faith": 0,
+          "strength": 14,
+          "intelligence": 0,
+          "dexterity": 0
+        },
+        "damage_reduction": {
+          "physical": 45,
+          "magic": 10,
+          "lightning": 30,
+          "fire": 30
+        },
+        "weapon_type": "hammer",
+        "weight": 5,
+        "damage": {
+          "physical": 89,
+          "magic": 0,
+          "lightning": 0,
+          "fire": 0
+        },
+        "durability": 250,
+        "name": "Pickaxe",
+        "attack_type": "thrust",
+        "bonus": {
+          "faith": null,
+          "strength": "B",
+          "intelligence": null,
+          "dexterity": null
+        },
+        "imagen": "../../../assets/darksouls armas2/Pickaxe.png"
+      },
+      {
+        "requirements": {
+          "faith": 0,
+          "strength": 24,
+          "intelligence": 0,
+          "dexterity": 10
+        },
+        "damage_reduction": {
+          "physical": 40,
+          "magic": 10,
+          "lightning": 30,
+          "fire": 30
+        },
+        "weapon_type": "spear",
+        "weight": 10,
+        "damage": {
+          "physical": 86,
+          "magic": 0,
+          "lightning": 0,
+          "fire": 0
+        },
+        "durability": 180,
+        "name": "Pike",
+        "attack_type": "thrust",
+        "bonus": {
+          "faith": null,
+          "strength": "D",
+          "intelligence": null,
+          "dexterity": "C"
+        },
+        "imagen": "../../../assets/darksouls armas2/Pike.png"
+      },
+      {
+        "requirements": {
+          "faith": 0,
+          "strength": 6,
+          "intelligence": 0,
+          "dexterity": 20
+        },
+        "damage_reduction": {
+          "physical": 45,
+          "magic": 10,
+          "lightning": 30,
+          "fire": 30
+        },
+        "weapon_type": "dagger",
+        "weight": 1,
+        "damage": {
+          "physical": 80,
+          "magic": 0,
+          "lightning": 0,
+          "fire": 0
+        },
+        "durability": 100,
+        "name": "Priscilla's Dagger",
+        "attack_type": "slash",
+        "bonus": {
+          "faith": null,
+          "strength": null,
+          "intelligence": null,
+          "dexterity": "A"
+        },
+        "imagen": "../../../assets/darksouls armas2/Priscilla's Dagger.png"
+      },
+      {
+        "requirements": {
+          "faith": 0,
+          "strength": 11,
+          "intelligence": 0,
+          "dexterity": 13
+        },
+        "damage_reduction": {
+          "physical": 45,
+          "magic": 10,
+          "lightning": 30,
+          "fire": 30
+        },
+        "weapon_type": "curved-sword",
+        "weight": 3.5,
+        "damage": {
+          "physical": 60,
+          "magic": 0,
+          "lightning": 0,
+          "fire": 170
+        },
+        "durability": 600,
+        "name": "Quelaag's Furysword",
+        "attack_type": "slash",
+        "bonus": {
+          "faith": null,
+          "strength": "E",
+          "intelligence": null,
+          "dexterity": "B"
+        },
+        "imagen": "../../../assets/darksouls armas2/Quelaag's Furysword.png"
+      },
+      {
+        "requirements": {
+          "faith": 0,
+          "strength": 7,
+          "intelligence": 0,
+          "dexterity": 12
+        },
+        "damage_reduction": {
+          "physical": 45,
+          "magic": 10,
+          "lightning": 30,
+          "fire": 30
+        },
+        "weapon_type": "thrusting-sword",
+        "weight": 1.5,
+        "damage": {
+          "physical": 175,
+          "magic": 0,
+          "lightning": 0,
+          "fire": 0
+        },
+        "durability": 150,
+        "name": "Rapier",
+        "attack_type": "thrust",
+        "bonus": {
+          "faith": null,
+          "strength": "D",
+          "intelligence": null,
+          "dexterity": "B"
+        },
+        "imagen": "../../../assets/darksouls armas2/Rapier.png"
+      },
+      {
+        "requirements": {
+          "faith": 0,
+          "strength": 12,
+          "intelligence": 0,
+          "dexterity": 0
+        },
+        "damage_reduction": {
+          "physical": 45,
+          "magic": 10,
+          "lightning": 30,
+          "fire": 30
+        },
+        "weapon_type": "hammer",
+        "weight": 4,
+        "damage": {
+          "physical": 97,
+          "magic": 0,
+          "lightning": 0,
+          "fire": 0
+        },
+        "durability": 100,
+        "name": "Reinforced Club",
+        "attack_type": "strike",
+        "bonus": {
+          "faith": null,
+          "strength": "C",
+          "intelligence": null,
+          "dexterity": null
+        },
+        "imagen": "../../../assets/darksouls armas2/Reinforced Club.png"
+      },
+      {
+        "requirements": {
+          "faith": 0,
+          "strength": 8,
+          "intelligence": 0,
+          "dexterity": 20
+        },
+        "damage_reduction": {
+          "physical": 45,
+          "magic": 10,
+          "lightning": 30,
+          "fire": 30
+        },
+        "weapon_type": "thrusting-sword",
+        "weight": 2,
+        "damage": {
+          "physical": 70,
+          "magic": 0,
+          "lightning": 0,
+          "fire": 0
+        },
+        "durability": 80,
+        "name": "Ricard's Rapier",
+        "attack_type": "thrust",
+        "bonus": {
+          "faith": null,
+          "strength": null,
+          "intelligence": null,
+          "dexterity": "A"
+        },
+        "imagen": "../../../assets/darksouls armas2/Ricard's Rapier.png"
+      },
+      {
+        "requirements": {
+          "faith": 0,
+          "strength": 20,
+          "intelligence": 0,
+          "dexterity": 10
+        },
+        "damage_reduction": {
+          "physical": 60,
+          "magic": 10,
+          "lightning": 40,
+          "fire": 40
+        },
+        "weapon_type": "curved-sword",
+        "weight": 6,
+        "damage": {
+          "physical": 83,
+          "magic": 0,
+          "lightning": 0,
+          "fire": 0
+        },
+        "durability": 300,
+        "name": "Server",
+        "attack_type": "strike",
+        "bonus": {
+          "faith": null,
+          "strength": "C",
+          "intelligence": null,
+          "dexterity": "B"
+        },
+        "imagen": "../../../assets/darksouls armas2/Server.png"
+      },
+      {
+        "requirements": {
+          "faith": 0,
+          "strength": 24,
+          "intelligence": 0,
+          "dexterity": 18
+        },
+        "damage_reduction": {
+          "physical": 50,
+          "magic": 10,
+          "lightning": 30,
+          "fire": 30
+        },
+        "weapon_type": "halberd",
+        "weight": 6,
+        "damage": {
+          "physical": 138,
+          "magic": 0,
+          "lightning": 0,
+          "fire": 0
+        },
+        "durability": 200,
+        "name": "Silver Knight Spear",
+        "attack_type": "regular/thrust",
+        "bonus": {
+          "faith": null,
+          "strength": "C",
+          "intelligence": null,
+          "dexterity": "A"
+        },
+        "imagen": "../../../assets/darksouls armas2/Silver Knight Spear.png"
+      },
+      {
+        "requirements": {
+          "faith": 0,
+          "strength": 14,
+          "intelligence": 0,
+          "dexterity": 14
+        },
+        "damage_reduction": {
+          "physical": 45,
+          "magic": 10,
+          "lightning": 30,
+          "fire": 30
+        },
+        "weapon_type": "curved-sword",
+        "weight": 2.5,
+        "damage": {
+          "physical": 105,
+          "magic": 0,
+          "lightning": 0,
+          "fire": 0
+        },
+        "durability": 80,
+        "name": "Scimitar",
+        "attack_type": "slash",
+        "bonus": {
+          "faith": null,
+          "strength": "E",
+          "intelligence": null,
+          "dexterity": "C"
+        },
+        "imagen": "../../../assets/darksouls armas2/Scimitar.png"
+      },
+      {
+        "requirements": {
+          "faith": 0,
+          "strength": 14,
+          "intelligence": 0,
+          "dexterity": 14
+        },
+        "damage_reduction": {
+          "physical": 45,
+          "magic": 10,
+          "lightning": 30,
+          "fire": 30
+        },
+        "weapon_type": "curved-sword",
+        "weight": 3,
+        "damage": {
+          "physical": 105,
+          "magic": 0,
+          "lightning": 0,
+          "fire": 0
+        },
+        "durability": 80,
+        "name": "Falchion",
+        "attack_type": "slash",
+        "bonus": {
+          "faith": null,
+          "strength": "E",
+          "intelligence": null,
+          "dexterity": "C"
+        },
+        "imagen": "../../../assets/darksouls armas2/Falchion.png"
+      },
+      {
+        "requirements": {
+          "faith": 0,
+          "strength": 16,
+          "intelligence": 0,
+          "dexterity": 14
+        },
+        "damage_reduction": {
+          "physical": 45,
+          "magic": 10,
+          "lightning": 30,
+          "fire": 30
+        },
+        "weapon_type": "straight-sword",
+        "weight": 4.5,
+        "damage": {
+          "physical": 120,
+          "magic": 0,
+          "lightning": 0,
+          "fire": 0
+        },
+        "durability": 160,
+        "name": "Silver Knight Straight Sword",
+        "attack_type": "regular",
+        "bonus": {
+          "faith": null,
+          "strength": "D",
+          "intelligence": null,
+          "dexterity": "C"
+        },
+        "imagen": "../../../assets/darksouls armas2/Silver Knight Straight Sword.png"
+      },
+      {
+        "requirements": {
+          "faith": 0,
+          "strength": 24,
+          "intelligence": 0,
+          "dexterity": 18
+        },
+        "damage_reduction": {
+          "physical": 60,
+          "magic": 10,
+          "lightning": 40,
+          "fire": 40
+        },
+        "weapon_type": "hammer",
+        "weight": 15,
+        "damage": {
+          "physical": 277,
+          "magic": 0,
+          "lightning": 0,
+          "fire": 0
+        },
+        "durability": 200,
+        "name": "Demon's Great Hammer",
+        "attack_type": "strike",
+        "bonus": {
+          "faith": null,
+          "strength": "B",
+          "intelligence": null,
+          "dexterity": null
+        },
+        "imagen": "../../../assets/darksouls armas2/Demon's Great Hammer.png"
+      },
+      {
+        "requirements": {
+          "faith": 0,
+          "strength": 16,
+          "intelligence": 0,
+          "dexterity": 14
+        },
+        "damage_reduction": {
+          "physical": 45,
+          "magic": 10,
+          "lightning": 30,
+          "fire": 30
+        },
+        "weapon_type": "straight-sword",
+        "weight": 3,
+        "damage": {
+          "physical": 110,
+          "magic": 0,
+          "lightning": 0,
+          "fire": 0
+        },
+        "durability": 120,
+        "name": "Sunlight Straight Sword",
+        "attack_type": "regular",
+        "bonus": {
+          "faith": null,
+          "strength": "D",
+          "intelligence": null,
+          "dexterity": "C"
+        },
+        "imagen": "../../../assets/darksouls armas2/Sunlight Straight Sword.png"
+      },
+      {
+        "requirements": {
+          "faith": 0,
+          "strength": 24,
+          "intelligence": 0,
+          "dexterity": 18
+        },
+        "damage_reduction": {
+          "physical": 60,
+          "magic": 10,
+          "lightning": 40,
+          "fire": 40
+        },
+        "weapon_type": "greataxe",
+        "weight": 8,
+        "damage": {
+          "physical": 210,
+          "magic": 0,
+          "lightning": 0,
+          "fire": 0
+        },
+        "durability": 300,
+        "name": "Demon's Greataxe",
+        "attack_type": "regular",
+        "bonus": {
+          "faith": null,
+          "strength": "B",
+          "intelligence": null,
+          "dexterity": null
+        },
+        "imagen": "../../../assets/darksouls armas2/Demon's Greataxe.png"
+      },
+      {
+        "requirements": {
+          "faith": 0,
+          "strength": 12,
+          "intelligence": 0,
+          "dexterity": 0
+        },
+        "damage_reduction": {
+          "physical": 45,
+          "magic": 10,
+          "lightning": 30,
+          "fire": 30
+        },
+        "weapon_type": "straight-sword",
+        "weight": 3,
+        "damage": {
+          "physical": 110,
+          "magic": 0,
+          "lightning": 0,
+          "fire": 0
+        },
+        "durability": 120,
+        "name": "Sunlight Straight Sword",
+        "attack_type": "regular",
+        "bonus": {
+          "faith": null,
+          "strength": "D",
+          "intelligence": null,
+          "dexterity": "C"
+        },
+        "imagen": "../../../assets/darksouls armas2/Sunlight Straight Sword.png"
+      },
+      {
+        "requirements": {
+          "faith": 0,
+          "strength": 16,
+          "intelligence": 0,
+          "dexterity": 22
+        },
+        "damage_reduction": {
+          "physical": 40,
+          "magic": 10,
+          "lightning": 30,
+          "fire": 30
+        },
+        "weapon_type": "spear",
+        "weight": 6,
+        "damage": {
+          "physical": 169,
+          "magic": 0,
+          "lightning": 0,
+          "fire": 0
+        },
+        "durability": 300,
+        "name": "Silver Knight Spear",
+        "attack_type": "regular/thrust",
+        "bonus": {
+          "faith": null,
+          "strength": "E",
+          "intelligence": null,
+          "dexterity": "C"
+        },
+        "imagen": "../../../assets/darksouls armas2/Silver Knight Spear.png"
+      },
+      {
+        "requirements": {
+          "faith": 0,
+          "strength": 16,
+          "intelligence": 0,
+          "dexterity": 22
+        },
+        "damage_reduction": {
+          "physical": 50,
+          "magic": 10,
+          "lightning": 35,
+          "fire": 35
+        },
+        "weapon_type": "straight-sword",
+        "weight": 6,
+        "damage": {
+          "physical": 175,
+          "magic": 0,
+          "lightning": 0,
+          "fire": 0
+        },
+        "durability": 300,
+        "name": "Silver Knight Straight Sword",
+        "attack_type": "regular",
+        "bonus": {
+          "faith": null,
+          "strength": "E",
+          "intelligence": null,
+          "dexterity": "C"
+        },
+        "imagen": "../../../assets/darksouls armas2/Silver Knight Straight Sword.png"
+      },
+      {
+        "requirements": {
+          "faith": 0,
+          "strength": 58,
+          "intelligence": 0,
+          "dexterity": 0
+        },
+        "damage_reduction": {
+          "physical": 50,
+          "magic": 10,
+          "lightning": 35,
+          "fire": 35
+        },
+        "weapon_type": "great-hammer",
+        "weight": 28,
+        "damage": {
+          "physical": 300,
+          "magic": 0,
+          "lightning": 0,
+          "fire": 0
+        },
+        "durability": 600,
+        "name": "Smough's Hammer",
+        "attack_type": "strike",
+        "bonus": {
+          "faith": null,
+          "strength": "D",
+          "intelligence": null,
+          "dexterity": null
+        },
+        "imagen": "../../../assets/darksouls armas2/Smough's Hammer.png"
+      },
+      {
+        "requirements": {
+          "faith": 0,
+          "strength": 20,
+          "intelligence": 0,
+          "dexterity": 16
+        },
+        "damage_reduction": {
+          "physical": 0,
+          "magic": 0,
+          "lightning": 0,
+          "fire": 0
+        },
+        "weapon_type": "crossbow",
+        "weight": 8,
+        "damage": {
+          "physical": 52,
+          "magic": 0,
+          "lightning": 0,
+          "fire": 0
+        },
+        "durability": 150,
+        "name": "Sniper Crossbow",
+        "attack_type": "none",
+        "bonus": {
+          "faith": null,
+          "strength": null,
+          "intelligence": null,
+          "dexterity": null
+        },
+        "imagen": "../../../assets/darksouls armas2/Sniper Crossbow.png"
+      },
+      {
+        "requirements": {
+          "faith": 0,
+          "strength": 11,
+          "intelligence": 0,
+          "dexterity": 10
+        },
+        "damage_reduction": {
+          "physical": 40,
+          "magic": 10,
+          "lightning": 30,
+          "fire": 30
+        },
+        "weapon_type": "spear",
+        "weight": 3.5,
+        "damage": {
+          "physical": 80,
+          "magic": 0,
+          "lightning": 0,
+          "fire": 0
+        },
+        "durability": 180,
+        "name": "Spear",
+        "attack_type": "thrust",
+        "bonus": {
+          "faith": null,
+          "strength": "D",
+          "intelligence": null,
+          "dexterity": "C"
+        },
+        "imagen": "../../../assets/darksouls armas2/Spear.png"
+      },
+      {
+        "requirements": {
+          "faith": 0,
+          "strength": 48,
+          "intelligence": 0,
+          "dexterity": 10
+        },
+        "damage_reduction": {
+          "physical": 55,
+          "magic": 10,
+          "lightning": 40,
+          "fire": 40
+        },
+        "weapon_type": "greataxe",
+        "weight": 24,
+        "damage": {
+          "physical": 190,
+          "magic": 0,
+          "lightning": 0,
+          "fire": 0
+        },
+        "durability": 700,
+        "name": "Stone Greataxe",
+        "attack_type": "regular",
+        "bonus": {
+          "faith": null,
+          "strength": "B",
+          "intelligence": null,
+          "dexterity": "E"
+        },
+        "imagen": "../../../assets/darksouls armas2/Stone Greataxe.png"
+      },
+      {
+        "requirements": {
+          "faith": 0,
+          "strength": 40,
+          "intelligence": 0,
+          "dexterity": 10
+        },
+        "damage_reduction": {
+          "physical": 60,
+          "magic": 10,
+          "lightning": 40,
+          "fire": 40
+        },
+        "weapon_type": "greatsword",
+        "weight": 18,
+        "damage": {
+          "physical": 148,
+          "magic": 100,
+          "lightning": 0,
+          "fire": 0
+        },
+        "durability": 800,
+        "name": "Stone Greatsword",
+        "attack_type": "regular",
+        "bonus": {
+          "faith": null,
+          "strength": "C",
+          "intelligence": "E",
+          "dexterity": "C"
+        },
+        "imagen": "../../../assets/darksouls armas2/Stone Greatsword.png"
+      },
+      {
+        "requirements": {
+          "faith": 0,
+          "strength": 6,
+          "intelligence": 0,
+          "dexterity": 6
+        },
+        "damage_reduction": {
+          "physical": 20,
+          "magic": 5,
+          "lightning": 15,
+          "fire": 15
+        },
+        "weapon_type": "straight-sword",
+        "weight": 1,
+        "damage": {
+          "physical": 20,
+          "magic": 0,
+          "lightning": 0,
+          "fire": 0
+        },
+        "durability": 200,
+        "name": "Straight Sword Hilt",
+        "attack_type": "regular/thrust",
+        "bonus": {
+          "faith": null,
+          "strength": "E",
+          "intelligence": null,
+          "dexterity": "E"
+        },
+        "imagen": "../../../assets/darksouls armas2/Straight Sword Hilt.png"
+      },
+      {
+        "requirements": {
+          "faith": 0,
+          "strength": 12,
+          "intelligence": 0,
+          "dexterity": 12
+        },
+        "damage_reduction": {
+          "physical": 50,
+          "magic": 10,
+          "lightning": 35,
+          "fire": 35
+        },
+        "weapon_type": "straight-sword",
+        "weight": 4,
+        "damage": {
+          "physical": 98,
+          "magic": 0,
+          "lightning": 0,
+          "fire": 0
+        },
+        "durability": 240,
+        "name": "Sunlight Straight Sword",
+        "attack_type": "regular/thrust",
+        "bonus": {
+          "faith": null,
+          "strength": "C",
+          "intelligence": null,
+          "dexterity": "C"
+        },
+        "imagen": "../../../assets/darksouls armas2/Sunlight Straight Sword.png"
+      },
+      {
+        "requirements": {
+          "faith": 0,
+          "strength": 16,
+          "intelligence": 0,
+          "dexterity": 14
+        },
+        "damage_reduction": {
+          "physical": 40,
+          "magic": 10,
+          "lightning": 30,
+          "fire": 30
+        },
+        "weapon_type": "halberd",
+        "weight": 6,
+        "damage": {
+          "physical": 125,
+          "magic": 145,
+          "lightning": 0,
+          "fire": 0
+        },
+        "durability": 600,
+        "name": "Titanite Catch Pole",
+        "attack_type": "regular",
+        "bonus": {
+          "faith": null,
+          "strength": "D",
+          "intelligence": "D",
+          "dexterity": "D"
+        },
+        "imagen": "../../../assets/darksouls armas2/Titanite Catch Pole.png"
+      },
+      {
+        "requirements": {
+          "faith": 0,
+          "strength": 14,
+          "intelligence": 0,
+          "dexterity": 14
+        },
+        "damage_reduction": {
+          "physical": 45,
+          "magic": 10,
+          "lightning": 30,
+          "fire": 30
+        },
+        "weapon_type": "katana",
+        "weight": 5,
+        "damage": {
+          "physical": 90,
+          "magic": 0,
+          "lightning": 0,
+          "fire": 0
+        },
+        "durability": 80,
+        "name": "Uchigatana",
+        "attack_type": "thrust/slash",
+        "bonus": {
+          "faith": null,
+          "strength": null,
+          "intelligence": null,
+          "dexterity": "B"
+        },
+        "imagen": "../../../assets/darksouls armas2/Uchigatana.png"
+      },
+      {
+        "requirements": {
+          "faith": 0,
+          "strength": 8,
+          "intelligence": 16,
+          "dexterity": 16
+        },
+        "damage_reduction": {
+          "physical": 45,
+          "magic": 10,
+          "lightning": 30,
+          "fire": 30
+        },
+        "weapon_type": "thrusting-sword",
+        "weight": 2,
+        "damage": {
+          "physical": 62,
+          "magic": 104,
+          "lightning": 0,
+          "fire": 0
+        },
+        "durability": 130,
+        "name": "Velka's Rapier",
+        "attack_type": "regular/thrust",
+        "bonus": {
+          "faith": null,
+          "strength": "E",
+          "intelligence": "B",
+          "dexterity": "C"
+        },
+        "imagen": "../../../assets/darksouls armas2/Velka's Rapier.png"
+      },
+      {
+        "requirements": {
+          "faith": 0,
+          "strength": 11,
+          "intelligence": 0,
+          "dexterity": 10
+        },
+        "damage_reduction": {
+          "physical": 45,
+          "magic": 10,
+          "lightning": 30,
+          "fire": 30
+        },
+        "weapon_type": "hammer",
+        "weight": 3.5,
+        "damage": {
+          "physical": 91,
+          "magic": 0,
+          "lightning": 0,
+          "fire": 0
+        },
+        "durability": 220,
+        "name": "Warpick",
+        "attack_type": "thrust",
+        "bonus": {
+          "faith": null,
+          "strength": "C",
+          "intelligence": null,
+          "dexterity": "D"
+        },
+        "imagen": "../../../assets/darksouls armas2/Warpick.png"
+      },
+      {
+        "requirements": {
+          "faith": 0,
+          "strength": 20,
+          "intelligence": 0,
+          "dexterity": 16
+        },
+        "damage_reduction": {
+          "physical": 45,
+          "magic": 10,
+          "lightning": 30,
+          "fire": 30
+        },
+        "weapon_type": "katana",
+        "weight": 8,
+        "damage": {
+          "physical": 90,
+          "magic": 0,
+          "lightning": 0,
+          "fire": 0
+        },
+        "durability": 60,
+        "name": "Washing Pole",
+        "attack_type": "thrust/slash",
+        "bonus": {
+          "faith": null,
+          "strength": "D",
+          "intelligence": null,
+          "dexterity": "D"
+        },
+        "imagen": "../../../assets/darksouls armas2/Washing Pole.png"
+      },
+      {
+        "requirements": {
+          "faith": 0,
+          "strength": 7,
+          "intelligence": 0,
+          "dexterity": 14
+        },
+        "damage_reduction": {
+          "physical": 30,
+          "magic": 10,
+          "lightning": 20,
+          "fire": 20
+        },
+        "weapon_type": "whip",
+        "weight": 1.5,
+        "damage": {
+          "physical": 80,
+          "magic": 0,
+          "lightning": 0,
+          "fire": 0
+        },
+        "durability": 200,
+        "name": "Whip",
+        "attack_type": "regular",
+        "bonus": {
+          "faith": null,
+          "strength": null,
+          "intelligence": null,
+          "dexterity": "B"
+        },
+        "imagen": "../../../assets/darksouls armas2/Whip.png"
+      },
+      {
+        "requirements": {
+          "faith": 0,
+          "strength": 13,
+          "intelligence": 0,
+          "dexterity": 15
+        },
+        "damage_reduction": {
+          "physical": 40,
+          "magic": 10,
+          "lightning": 30,
+          "fire": 30
+        },
+        "weapon_type": "spear",
+        "weight": 4.5,
+        "damage": {
+          "physical": 86,
+          "magic": 0,
+          "lightning": 0,
+          "fire": 0
+        },
+        "durability": 140,
+        "name": "Winged Spear",
+        "attack_type": "thrust",
+        "bonus": {
+          "faith": null,
+          "strength": "E",
+          "intelligence": null,
+          "dexterity": "C"
+        },
+        "imagen": "../../../assets/darksouls armas2/Winged Spear.png"
+      },
+      {
+        "requirements": {
+          "faith": 0,
+          "strength": 24,
+          "intelligence": 0,
+          "dexterity": 10
+        },
+        "damage_reduction": {
+          "physical": 70,
+          "magic": 10,
+          "lightning": 50,
+          "fire": 50
+        },
+        "weapon_type": "ultra-greatsword",
+        "weight": 10,
+        "damage": {
+          "physical": 130,
+          "magic": 0,
+          "lightning": 0,
+          "fire": 0
+        },
+        "durability": 200,
+        "name": "Zweihander",
+        "attack_type": "regular",
+        "bonus": {
+          "faith": null,
+          "strength": "C",
+          "intelligence": null,
+          "dexterity": "D"
+        },
+        "imagen": "../../../assets/darksouls armas2/Zweihander.png"
       }
-    },
-    {
-      "requirements": {
-        "faith": 0,
-        "strength": 11,
-        "intelligence": 0,
-        "dexterity": 0
-      },
-      "damage_reduction": {
-        "physical": 45,
-        "magic": 10,
-        "lightning": 30,
-        "fire": 30
-      },
-      "weapon_type": "hammer",
-      "weight": 4,
-      "damage": {
-        "physical": 83,
-        "magic": 0,
-        "lightning": 0,
-        "fire": 0
-      },
-      "durability": 180,
-      "name": "Morning Star",
-      "attack_type": "strike",
-      "bonus": {
-        "faith": null,
-        "strength": "C",
-        "intelligence": null,
-        "dexterity": null
-      }
-    },
-    {
-      "requirements": {
-        "faith": 0,
-        "strength": 28,
-        "intelligence": 0,
-        "dexterity": 13
-      },
-      "damage_reduction": {
-        "physical": 60,
-        "magic": 10,
-        "lightning": 40,
-        "fire": 40
-      },
-      "weapon_type": "curved-greatsword",
-      "weight": 12,
-      "damage": {
-        "physical": 113,
-        "magic": 0,
-        "lightning": 0,
-        "fire": 0
-      },
-      "durability": 180,
-      "name": "Murakumo",
-      "attack_type": "slash",
-      "bonus": {
-        "faith": null,
-        "strength": "E",
-        "intelligence": null,
-        "dexterity": "B"
-      }
-    },
-    {
-      "requirements": {
-        "faith": 0,
-        "strength": 8,
-        "intelligence": 0,
-        "dexterity": 16
-      },
-      "damage_reduction": {
-        "physical": 30,
-        "magic": 10,
-        "lightning": 20,
-        "fire": 20
-      },
-      "weapon_type": "whip",
-      "weight": 2,
-      "damage": {
-        "physical": 76,
-        "magic": 0,
-        "lightning": 0,
-        "fire": 0
-      },
-      "durability": 200,
-      "name": "Notched Whip",
-      "attack_type": "regular",
-      "bonus": {
-        "faith": null,
-        "strength": null,
-        "intelligence": null,
-        "dexterity": "B"
-      }
-    },
-    {
-      "requirements": {
-        "faith": 0,
-        "strength": 20,
-        "intelligence": 0,
-        "dexterity": 16
-      },
-      "damage_reduction": {
-        "physical": 60,
-        "magic": 10,
-        "lightning": 40,
-        "fire": 40
-      },
-      "weapon_type": "greatsword",
-      "weight": 8,
-      "damage": {
-        "physical": 320,
-        "magic": 0,
-        "lightning": 0,
-        "fire": 0
-      },
-      "durability": 350,
-      "name": "Obsidian Greatsword",
-      "attack_type": "regular",
-      "bonus": {
-        "faith": null,
-        "strength": null,
-        "intelligence": null,
-        "dexterity": null
-      }
-    },
-    {
-      "requirements": {
-        "faith": 0,
-        "strength": 7,
-        "intelligence": 0,
-        "dexterity": 20
-      },
-      "damage_reduction": {
-        "physical": 45,
-        "magic": 10,
-        "lightning": 30,
-        "fire": 30
-      },
-      "weapon_type": "curved-sword",
-      "weight": 1.5,
-      "damage": {
-        "physical": 76,
-        "magic": 0,
-        "lightning": 0,
-        "fire": 0
-      },
-      "durability": 100,
-      "name": "Painting Guardian Sword",
-      "attack_type": "slash",
-      "bonus": {
-        "faith": null,
-        "strength": "E",
-        "intelligence": null,
-        "dexterity": "A"
-      }
-    },
-    {
-      "requirements": {
-        "faith": 0,
-        "strength": 5,
-        "intelligence": 0,
-        "dexterity": 14
-      },
-      "damage_reduction": {
-        "physical": 45,
-        "magic": 10,
-        "lightning": 30,
-        "fire": 30
-      },
-      "weapon_type": "dagger",
-      "weight": 0.5,
-      "damage": {
-        "physical": 135,
-        "magic": 0,
-        "lightning": 0,
-        "fire": 0
-      },
-      "durability": 200,
-      "name": "Parrying Dagger",
-      "attack_type": "thrust/slash",
-      "bonus": {
-        "faith": null,
-        "strength": "E",
-        "intelligence": null,
-        "dexterity": "A"
-      }
-    },
-    {
-      "requirements": {
-        "faith": 0,
-        "strength": 13,
-        "intelligence": 0,
-        "dexterity": 12
-      },
-      "damage_reduction": {
-        "physical": 40,
-        "magic": 10,
-        "lightning": 30,
-        "fire": 30
-      },
-      "weapon_type": "spear",
-      "weight": 4.5,
-      "damage": {
-        "physical": 128,
-        "magic": 0,
-        "lightning": 0,
-        "fire": 0
-      },
-      "durability": 160,
-      "name": "Partizan",
-      "attack_type": "regular/thrust",
-      "bonus": {
-        "faith": null,
-        "strength": "D",
-        "intelligence": null,
-        "dexterity": "C"
-      }
-    },
-    {
-      "requirements": {
-        "faith": 0,
-        "strength": 14,
-        "intelligence": 0,
-        "dexterity": 0
-      },
-      "damage_reduction": {
-        "physical": 45,
-        "magic": 10,
-        "lightning": 30,
-        "fire": 30
-      },
-      "weapon_type": "hammer",
-      "weight": 5,
-      "damage": {
-        "physical": 89,
-        "magic": 0,
-        "lightning": 0,
-        "fire": 0
-      },
-      "durability": 250,
-      "name": "Pickaxe",
-      "attack_type": "thrust",
-      "bonus": {
-        "faith": null,
-        "strength": "B",
-        "intelligence": null,
-        "dexterity": null
-      }
-    },
-    {
-      "requirements": {
-        "faith": 0,
-        "strength": 24,
-        "intelligence": 0,
-        "dexterity": 10
-      },
-      "damage_reduction": {
-        "physical": 40,
-        "magic": 10,
-        "lightning": 30,
-        "fire": 30
-      },
-      "weapon_type": "spear",
-      "weight": 10,
-      "damage": {
-        "physical": 86,
-        "magic": 0,
-        "lightning": 0,
-        "fire": 0
-      },
-      "durability": 180,
-      "name": "Pike",
-      "attack_type": "thrust",
-      "bonus": {
-        "faith": null,
-        "strength": "D",
-        "intelligence": null,
-        "dexterity": "C"
-      }
-    },
-    {
-      "requirements": {
-        "faith": 0,
-        "strength": 6,
-        "intelligence": 0,
-        "dexterity": 20
-      },
-      "damage_reduction": {
-        "physical": 45,
-        "magic": 10,
-        "lightning": 30,
-        "fire": 30
-      },
-      "weapon_type": "dagger",
-      "weight": 1,
-      "damage": {
-        "physical": 80,
-        "magic": 0,
-        "lightning": 0,
-        "fire": 0
-      },
-      "durability": 100,
-      "name": "Priscilla's Dagger",
-      "attack_type": "slash",
-      "bonus": {
-        "faith": null,
-        "strength": null,
-        "intelligence": null,
-        "dexterity": "A"
-      }
-    },
-    {
-      "requirements": {
-        "faith": 0,
-        "strength": 11,
-        "intelligence": 0,
-        "dexterity": 13
-      },
-      "damage_reduction": {
-        "physical": 45,
-        "magic": 10,
-        "lightning": 30,
-        "fire": 30
-      },
-      "weapon_type": "curved-sword",
-      "weight": 3.5,
-      "damage": {
-        "physical": 60,
-        "magic": 0,
-        "lightning": 0,
-        "fire": 170
-      },
-      "durability": 600,
-      "name": "Quelaag's Furysword",
-      "attack_type": "slash",
-      "bonus": {
-        "faith": null,
-        "strength": "E",
-        "intelligence": null,
-        "dexterity": "B"
-      }
-    },
-    {
-      "requirements": {
-        "faith": 0,
-        "strength": 7,
-        "intelligence": 0,
-        "dexterity": 12
-      },
-      "damage_reduction": {
-        "physical": 45,
-        "magic": 10,
-        "lightning": 30,
-        "fire": 30
-      },
-      "weapon_type": "thrusting-sword",
-      "weight": 1.5,
-      "damage": {
-        "physical": 175,
-        "magic": 0,
-        "lightning": 0,
-        "fire": 0
-      },
-      "durability": 150,
-      "name": "Rapier",
-      "attack_type": "thrust",
-      "bonus": {
-        "faith": null,
-        "strength": "D",
-        "intelligence": null,
-        "dexterity": "B"
-      }
-    },
-    {
-      "requirements": {
-        "faith": 0,
-        "strength": 12,
-        "intelligence": 0,
-        "dexterity": 0
-      },
-      "damage_reduction": {
-        "physical": 45,
-        "magic": 10,
-        "lightning": 30,
-        "fire": 30
-      },
-      "weapon_type": "hammer",
-      "weight": 4,
-      "damage": {
-        "physical": 97,
-        "magic": 0,
-        "lightning": 0,
-        "fire": 0
-      },
-      "durability": 100,
-      "name": "Reinforced Club",
-      "attack_type": "strike",
-      "bonus": {
-        "faith": null,
-        "strength": "C",
-        "intelligence": null,
-        "dexterity": null
-      }
-    },
-    {
-      "requirements": {
-        "faith": 0,
-        "strength": 8,
-        "intelligence": 0,
-        "dexterity": 20
-      },
-      "damage_reduction": {
-        "physical": 45,
-        "magic": 10,
-        "lightning": 30,
-        "fire": 30
-      },
-      "weapon_type": "thrusting-sword",
-      "weight": 2,
-      "damage": {
-        "physical": 70,
-        "magic": 0,
-        "lightning": 0,
-        "fire": 0
-      },
-      "durability": 100,
-      "name": "Ricard's Rapier",
-      "attack_type": "thrust",
-      "bonus": {
-        "faith": null,
-        "strength": "E",
-        "intelligence": null,
-        "dexterity": "B"
-      }
-    },
-    {
-      "requirements": {
-        "faith": 0,
-        "strength": 7,
-        "intelligence": 0,
-        "dexterity": 13
-      },
-      "damage_reduction": {
-        "physical": 45,
-        "magic": 10,
-        "lightning": 30,
-        "fire": 30
-      },
-      "weapon_type": "curved-sword",
-      "weight": 1.5,
-      "damage": {
-        "physical": 200,
-        "magic": 0,
-        "lightning": 0,
-        "fire": 0
-      },
-      "durability": 160,
-      "name": "Scimitar",
-      "attack_type": "slash",
-      "bonus": {
-        "faith": null,
-        "strength": "E",
-        "intelligence": null,
-        "dexterity": "A"
-      }
-    },
-    {
-      "requirements": {
-        "faith": 0,
-        "strength": 14,
-        "intelligence": 0,
-        "dexterity": 12
-      },
-      "damage_reduction": {
-        "physical": 40,
-        "magic": 10,
-        "lightning": 30,
-        "fire": 30
-      },
-      "weapon_type": "halberd",
-      "weight": 5,
-      "damage": {
-        "physical": 110,
-        "magic": 0,
-        "lightning": 0,
-        "fire": 0
-      },
-      "durability": 150,
-      "name": "Scythe",
-      "attack_type": "slash",
-      "bonus": {
-        "faith": null,
-        "strength": "E",
-        "intelligence": null,
-        "dexterity": "C"
-      }
-    },
-    {
-      "requirements": {
-        "faith": 0,
-        "strength": 24,
-        "intelligence": 0,
-        "dexterity": 13
-      },
-      "damage_reduction": {
-        "physical": 60,
-        "magic": 10,
-        "lightning": 40,
-        "fire": 40
-      },
-      "weapon_type": "curved-greatsword",
-      "weight": 10,
-      "damage": {
-        "physical": 128,
-        "magic": 0,
-        "lightning": 0,
-        "fire": 0
-      },
-      "durability": 140,
-      "name": "Server",
-      "attack_type": "slash",
-      "bonus": {
-        "faith": null,
-        "strength": "E",
-        "intelligence": null,
-        "dexterity": "C"
-      }
-    },
-    {
-      "requirements": {
-        "faith": 0,
-        "strength": 7,
-        "intelligence": 0,
-        "dexterity": 12
-      },
-      "damage_reduction": {
-        "physical": 0,
-        "magic": 0,
-        "lightning": 0,
-        "fire": 0
-      },
-      "weapon_type": "bow",
-      "weight": 0.5,
-      "damage": {
-        "physical": 31,
-        "magic": 0,
-        "lightning": 0,
-        "fire": 0
-      },
-      "durability": 100,
-      "name": "Short Bow",
-      "attack_type": "none",
-      "bonus": {
-        "faith": null,
-        "strength": "D",
-        "intelligence": null,
-        "dexterity": "A"
-      }
-    },
-    {
-      "requirements": {
-        "faith": 0,
-        "strength": 8,
-        "intelligence": 0,
-        "dexterity": 10
-      },
-      "damage_reduction": {
-        "physical": 50,
-        "magic": 10,
-        "lightning": 35,
-        "fire": 35
-      },
-      "weapon_type": "straight-sword",
-      "weight": 2,
-      "damage": {
-        "physical": 78,
-        "magic": 0,
-        "lightning": 0,
-        "fire": 0
-      },
-      "durability": 200,
-      "name": "Shortsword",
-      "attack_type": "regular/thrust",
-      "bonus": {
-        "faith": null,
-        "strength": "C",
-        "intelligence": null,
-        "dexterity": "C"
-      }
-    },
-    {
-      "requirements": {
-        "faith": 0,
-        "strength": 9,
-        "intelligence": 0,
-        "dexterity": 14
-      },
-      "damage_reduction": {
-        "physical": 45,
-        "magic": 10,
-        "lightning": 30,
-        "fire": 30
-      },
-      "weapon_type": "curved-sword",
-      "weight": 2.5,
-      "damage": {
-        "physical": 82,
-        "magic": 0,
-        "lightning": 0,
-        "fire": 0
-      },
-      "durability": 120,
-      "name": "Shotel",
-      "attack_type": "slash",
-      "bonus": {
-        "faith": null,
-        "strength": "E",
-        "intelligence": null,
-        "dexterity": "C"
-      }
-    },
-    {
-      "requirements": {
-        "faith": 0,
-        "strength": 16,
-        "intelligence": 0,
-        "dexterity": 22
-      },
-      "damage_reduction": {
-        "physical": 40,
-        "magic": 10,
-        "lightning": 30,
-        "fire": 30
-      },
-      "weapon_type": "spear",
-      "weight": 6,
-      "damage": {
-        "physical": 169,
-        "magic": 0,
-        "lightning": 0,
-        "fire": 0
-      },
-      "durability": 300,
-      "name": "Silver Knight Spear",
-      "attack_type": "regular/thrust",
-      "bonus": {
-        "faith": null,
-        "strength": "E",
-        "intelligence": null,
-        "dexterity": "C"
-      }
-    },
-    {
-      "requirements": {
-        "faith": 0,
-        "strength": 16,
-        "intelligence": 0,
-        "dexterity": 22
-      },
-      "damage_reduction": {
-        "physical": 50,
-        "magic": 10,
-        "lightning": 35,
-        "fire": 35
-      },
-      "weapon_type": "straight-sword",
-      "weight": 6,
-      "damage": {
-        "physical": 175,
-        "magic": 0,
-        "lightning": 0,
-        "fire": 0
-      },
-      "durability": 300,
-      "name": "Silver Knight Straight Sword",
-      "attack_type": "regular",
-      "bonus": {
-        "faith": null,
-        "strength": "E",
-        "intelligence": null,
-        "dexterity": "C"
-      }
-    },
-    {
-      "requirements": {
-        "faith": 0,
-        "strength": 58,
-        "intelligence": 0,
-        "dexterity": 0
-      },
-      "damage_reduction": {
-        "physical": 50,
-        "magic": 10,
-        "lightning": 35,
-        "fire": 35
-      },
-      "weapon_type": "great-hammer",
-      "weight": 28,
-      "damage": {
-        "physical": 300,
-        "magic": 0,
-        "lightning": 0,
-        "fire": 0
-      },
-      "durability": 600,
-      "name": "Smough's Hammer",
-      "attack_type": "strike",
-      "bonus": {
-        "faith": null,
-        "strength": "D",
-        "intelligence": null,
-        "dexterity": null
-      }
-    },
-    {
-      "requirements": {
-        "faith": 0,
-        "strength": 20,
-        "intelligence": 0,
-        "dexterity": 16
-      },
-      "damage_reduction": {
-        "physical": 0,
-        "magic": 0,
-        "lightning": 0,
-        "fire": 0
-      },
-      "weapon_type": "crossbow",
-      "weight": 8,
-      "damage": {
-        "physical": 52,
-        "magic": 0,
-        "lightning": 0,
-        "fire": 0
-      },
-      "durability": 150,
-      "name": "Sniper Crossbow",
-      "attack_type": "none",
-      "bonus": {
-        "faith": null,
-        "strength": null,
-        "intelligence": null,
-        "dexterity": null
-      }
-    },
-    {
-      "requirements": {
-        "faith": 0,
-        "strength": 11,
-        "intelligence": 0,
-        "dexterity": 10
-      },
-      "damage_reduction": {
-        "physical": 40,
-        "magic": 10,
-        "lightning": 30,
-        "fire": 30
-      },
-      "weapon_type": "spear",
-      "weight": 3.5,
-      "damage": {
-        "physical": 80,
-        "magic": 0,
-        "lightning": 0,
-        "fire": 0
-      },
-      "durability": 180,
-      "name": "Spear",
-      "attack_type": "thrust",
-      "bonus": {
-        "faith": null,
-        "strength": "D",
-        "intelligence": null,
-        "dexterity": "C"
-      }
-    },
-    {
-      "requirements": {
-        "faith": 0,
-        "strength": 48,
-        "intelligence": 0,
-        "dexterity": 10
-      },
-      "damage_reduction": {
-        "physical": 55,
-        "magic": 10,
-        "lightning": 40,
-        "fire": 40
-      },
-      "weapon_type": "greataxe",
-      "weight": 24,
-      "damage": {
-        "physical": 190,
-        "magic": 0,
-        "lightning": 0,
-        "fire": 0
-      },
-      "durability": 700,
-      "name": "Stone Greataxe",
-      "attack_type": "regular",
-      "bonus": {
-        "faith": null,
-        "strength": "B",
-        "intelligence": null,
-        "dexterity": "E"
-      }
-    },
-    {
-      "requirements": {
-        "faith": 0,
-        "strength": 40,
-        "intelligence": 0,
-        "dexterity": 10
-      },
-      "damage_reduction": {
-        "physical": 60,
-        "magic": 10,
-        "lightning": 40,
-        "fire": 40
-      },
-      "weapon_type": "greatsword",
-      "weight": 18,
-      "damage": {
-        "physical": 148,
-        "magic": 100,
-        "lightning": 0,
-        "fire": 0
-      },
-      "durability": 800,
-      "name": "Stone Greatsword",
-      "attack_type": "regular",
-      "bonus": {
-        "faith": null,
-        "strength": "C",
-        "intelligence": "E",
-        "dexterity": "C"
-      }
-    },
-    {
-      "requirements": {
-        "faith": 0,
-        "strength": 6,
-        "intelligence": 0,
-        "dexterity": 6
-      },
-      "damage_reduction": {
-        "physical": 20,
-        "magic": 5,
-        "lightning": 15,
-        "fire": 15
-      },
-      "weapon_type": "straight-sword",
-      "weight": 1,
-      "damage": {
-        "physical": 20,
-        "magic": 0,
-        "lightning": 0,
-        "fire": 0
-      },
-      "durability": 200,
-      "name": "Straight Sword Hilt",
-      "attack_type": "regular/thrust",
-      "bonus": {
-        "faith": null,
-        "strength": "E",
-        "intelligence": null,
-        "dexterity": "E"
-      }
-    },
-    {
-      "requirements": {
-        "faith": 0,
-        "strength": 12,
-        "intelligence": 0,
-        "dexterity": 12
-      },
-      "damage_reduction": {
-        "physical": 50,
-        "magic": 10,
-        "lightning": 35,
-        "fire": 35
-      },
-      "weapon_type": "straight-sword",
-      "weight": 4,
-      "damage": {
-        "physical": 98,
-        "magic": 0,
-        "lightning": 0,
-        "fire": 0
-      },
-      "durability": 240,
-      "name": "Sunlight Straight Sword",
-      "attack_type": "regular/thrust",
-      "bonus": {
-        "faith": null,
-        "strength": "C",
-        "intelligence": null,
-        "dexterity": "C"
-      }
-    },
-    {
-      "requirements": {
-        "faith": 0,
-        "strength": 16,
-        "intelligence": 0,
-        "dexterity": 14
-      },
-      "damage_reduction": {
-        "physical": 40,
-        "magic": 10,
-        "lightning": 30,
-        "fire": 30
-      },
-      "weapon_type": "halberd",
-      "weight": 6,
-      "damage": {
-        "physical": 125,
-        "magic": 145,
-        "lightning": 0,
-        "fire": 0
-      },
-      "durability": 600,
-      "name": "Titanite Catch Pole",
-      "attack_type": "regular",
-      "bonus": {
-        "faith": null,
-        "strength": "D",
-        "intelligence": "D",
-        "dexterity": "D"
-      }
-    },
-    {
-      "requirements": {
-        "faith": 0,
-        "strength": 14,
-        "intelligence": 0,
-        "dexterity": 14
-      },
-      "damage_reduction": {
-        "physical": 45,
-        "magic": 10,
-        "lightning": 30,
-        "fire": 30
-      },
-      "weapon_type": "katana",
-      "weight": 5,
-      "damage": {
-        "physical": 90,
-        "magic": 0,
-        "lightning": 0,
-        "fire": 0
-      },
-      "durability": 80,
-      "name": "Uchigatana",
-      "attack_type": "thrust/slash",
-      "bonus": {
-        "faith": null,
-        "strength": null,
-        "intelligence": null,
-        "dexterity": "B"
-      }
-    },
-    {
-      "requirements": {
-        "faith": 0,
-        "strength": 8,
-        "intelligence": 16,
-        "dexterity": 16
-      },
-      "damage_reduction": {
-        "physical": 45,
-        "magic": 10,
-        "lightning": 30,
-        "fire": 30
-      },
-      "weapon_type": "thrusting-sword",
-      "weight": 2,
-      "damage": {
-        "physical": 62,
-        "magic": 104,
-        "lightning": 0,
-        "fire": 0
-      },
-      "durability": 130,
-      "name": "Velka's Rapier",
-      "attack_type": "regular/thrust",
-      "bonus": {
-        "faith": null,
-        "strength": "E",
-        "intelligence": "B",
-        "dexterity": "C"
-      }
-    },
-    {
-      "requirements": {
-        "faith": 0,
-        "strength": 11,
-        "intelligence": 0,
-        "dexterity": 10
-      },
-      "damage_reduction": {
-        "physical": 45,
-        "magic": 10,
-        "lightning": 30,
-        "fire": 30
-      },
-      "weapon_type": "hammer",
-      "weight": 3.5,
-      "damage": {
-        "physical": 91,
-        "magic": 0,
-        "lightning": 0,
-        "fire": 0
-      },
-      "durability": 220,
-      "name": "Warpick",
-      "attack_type": "thrust",
-      "bonus": {
-        "faith": null,
-        "strength": "C",
-        "intelligence": null,
-        "dexterity": "D"
-      }
-    },
-    {
-      "requirements": {
-        "faith": 0,
-        "strength": 20,
-        "intelligence": 0,
-        "dexterity": 16
-      },
-      "damage_reduction": {
-        "physical": 45,
-        "magic": 10,
-        "lightning": 30,
-        "fire": 30
-      },
-      "weapon_type": "katana",
-      "weight": 8,
-      "damage": {
-        "physical": 90,
-        "magic": 0,
-        "lightning": 0,
-        "fire": 0
-      },
-      "durability": 60,
-      "name": "Washing Pole",
-      "attack_type": "thrust/slash",
-      "bonus": {
-        "faith": null,
-        "strength": "D",
-        "intelligence": null,
-        "dexterity": "D"
-      }
-    },
-    {
-      "requirements": {
-        "faith": 0,
-        "strength": 7,
-        "intelligence": 0,
-        "dexterity": 14
-      },
-      "damage_reduction": {
-        "physical": 30,
-        "magic": 10,
-        "lightning": 20,
-        "fire": 20
-      },
-      "weapon_type": "whip",
-      "weight": 1.5,
-      "damage": {
-        "physical": 80,
-        "magic": 0,
-        "lightning": 0,
-        "fire": 0
-      },
-      "durability": 200,
-      "name": "Whip",
-      "attack_type": "regular",
-      "bonus": {
-        "faith": null,
-        "strength": null,
-        "intelligence": null,
-        "dexterity": "B"
-      }
-    },
-    {
-      "requirements": {
-        "faith": 0,
-        "strength": 13,
-        "intelligence": 0,
-        "dexterity": 15
-      },
-      "damage_reduction": {
-        "physical": 40,
-        "magic": 10,
-        "lightning": 30,
-        "fire": 30
-      },
-      "weapon_type": "spear",
-      "weight": 4.5,
-      "damage": {
-        "physical": 86,
-        "magic": 0,
-        "lightning": 0,
-        "fire": 0
-      },
-      "durability": 140,
-      "name": "Winged Spear",
-      "attack_type": "thrust",
-      "bonus": {
-        "faith": null,
-        "strength": "E",
-        "intelligence": null,
-        "dexterity": "C"
-      }
-    },
-    {
-      "requirements": {
-        "faith": 0,
-        "strength": 24,
-        "intelligence": 0,
-        "dexterity": 10
-      },
-      "damage_reduction": {
-        "physical": 70,
-        "magic": 10,
-        "lightning": 50,
-        "fire": 50
-      },
-      "weapon_type": "ultra-greatsword",
-      "weight": 10,
-      "damage": {
-        "physical": 130,
-        "magic": 0,
-        "lightning": 0,
-        "fire": 0
-      },
-      "durability": 200,
-      "name": "Zweihander",
-      "attack_type": "regular",
-      "bonus": {
-        "faith": null,
-        "strength": "C",
-        "intelligence": null,
-        "dexterity": "D"
-      }
-    }
   ]
+  
+  
+  
+  
+  
+  
+  

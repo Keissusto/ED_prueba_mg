@@ -8,7 +8,7 @@ export interface DataDS {
   name: string;
   attack_type: string;
   bonus: Bonus;
-  imagen: String;
+  imagen: string;
 }
  
 export interface Bonus {
