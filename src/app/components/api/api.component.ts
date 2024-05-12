@@ -1,4 +1,4 @@
-import { DataDS, Weapons } from './../../common/data-ds';
+import { DataDS } from './../../common/data-ds';
 import { Component, OnInit, inject } from '@angular/core';
 import { DataServiceService } from '../../services/data.service.service';
 import { Data, RouterOutlet } from '@angular/router';
@@ -13,7 +13,7 @@ import { NavbarComponent } from '../../layouts/navbar/navbar.component';
 })
 export class APIComponent {
 
-  armas: Weapons[] = [];
+  armas: DataDS[] = [];
 
   private data: DataServiceService =  inject(DataServiceService);
   DataDS: any;
@@ -24,7 +24,7 @@ export class APIComponent {
   private cargarApi(){
     this.data.loadApi().subscribe({
       next:( datos: DataDS[]) => {
-        this.DataDS = datos;
+        this.armas = datos;
       },
       error:(err: string) =>{
         console.log(err)

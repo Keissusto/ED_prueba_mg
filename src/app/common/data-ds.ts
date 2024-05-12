@@ -1,9 +1,4 @@
-export interface DataDS{
-  info: Info;
-  weapons: Weapons[];
-}
-
-export interface Weapons {
+export interface DataDS {
   requirements: Requirements;
   damage_reduction: Damagereduction;
   weapon_type: string;
@@ -13,32 +8,27 @@ export interface Weapons {
   name: string;
   attack_type: string;
   bonus: Bonus;
-  image: string;
+  image: String;
 }
-
+ 
 export interface Bonus {
   faith?: string;
   strength?: string;
   intelligence?: string;
   dexterity?: string;
 }
-
+ 
 export interface Damagereduction {
   physical: number;
   magic: number;
   lightning: number;
   fire: number;
 }
-
+ 
 export interface Requirements {
   faith: number;
   strength: number;
   intelligence: number;
   dexterity: number;
 }
-export interface Info {
-  count: number;
-  pages: number;
-  next: string;
-  prev?: any;
-}
+ 

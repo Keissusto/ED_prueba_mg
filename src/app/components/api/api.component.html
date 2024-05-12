@@ -4,18 +4,14 @@
     <h1 class="text-center">DARK SOULS API</h1>
   </div>
 
-  <div class="row my-3 justify-content-center">
-    <button class="btn btn-info col-1 mx-3" (click)="cambiarPag('first')">First</button>
-    <button class="btn btn-info col-1 mx-3" (click)="cambiarPag('prev')">Previous</button>
-    <button class="btn btn-info col-1 mx-3" (click)="cambiarPag('next')">Next</button>
-    <button class="btn btn-info col-1 mx-3" (click)="cambiarPag('last')">Last</button>
-  </div>
+
 
   <div class="d-flex  align-items-center justify-content-center" style="padding-bottom: 10%;">
-    @for (item of DataDS; track $index) {
-
-      <div  class= "card col-2.5  py-5 cartaarma" style="padding-left: 2%; padding-right: 1%;">
-        <a href="/api/{{item.name}}">
+    @for (item of armas; track $index ) {
+      @if ((item.weapon_type) == "greatsword") {
+       
+      <div  class= "card col-3  py-5 cartaarma" style="padding-left: 2%; padding-right: 1%;">
+       
           <div>
             <h1>{{item.name}} </h1>
           </div>
@@ -24,24 +20,20 @@
           </div>
           <span>Tipo de arma:{{item.weapon_type}} </span>
           <span>Peso:{{item.weight}}  </span>
-          <span>Daño:(Fisico:{{item.damage.physical}}, Fuego: {{item.damage.fire}}, Luz {{item.damage.lightning}}, Magia {{item.damage.magic}}  )</span>
+          <span>Daño:(Fisico:{{item.damage.physical}}, Fuego: {{item.damage.fire}}, Luz {{item.damage.lightning}}, Magia {{item.damage.magic}})</span>
           <span>Durabilidad:{{item.durability}}  </span>
           <span>Tipo de ataque:{{item.attack_type}}  </span>
           <span>Requisitos: (Destreza {{item.requirements.dexterity}}, Fe {{item.requirements.faith}}, Inteligencia {{item.requirements.intelligence}}, Fuerza {{item.requirements.strength}} )  </span>
           <span>Reducción de daño: ( Fuego {{item.damage_reduction.fire}}, Luz {{item.damage_reduction.lightning}}, Magia {{item.damage_reduction.magic}}, Fisico {{item.damage_reduction.physical}} )  </span>
-        </a>
+        
       </div>
 
     <div style="padding-left: 2%; margin-left: 1%; padding-right: 1%;">
 
+
     </div>
+    
+      }
   }
   </div>
-  <div class="row my-3 justify-content-center">
-    <button class="btn btn-info col-1 mx-3" (click)="cambiarPag('first')">First</button>
-    <button class="btn btn-info col-1 mx-3" (click)="cambiarPag('prev')">Previous</button>
-    <button class="btn btn-info col-1 mx-3" (click)="cambiarPag('next')">Next</button>
-    <button class="btn btn-info col-1 mx-3" (click)="cambiarPag('last')">Last</button>
-  </div>
-
 </div>

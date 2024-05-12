@@ -1,4 +1,4 @@
-import { DataDS, Weapons } from './../../common/data-ds';
+import { DataDS, } from './../../common/data-ds';
 import { Component, OnInit, inject } from '@angular/core';
 import { DataServiceService } from '../../services/data.service.service';
 import { Data, Router, RouterOutlet } from '@angular/router';
@@ -13,7 +13,7 @@ import { NavbarComponent } from '../../layouts/navbar/navbar.component';
 })
 export class DetallesAPIComponent {
 
-  armas: Weapons[] = [];
+  armas: DataDS[] = [];
 
   private data: DataServiceService =  inject(DataServiceService);
   private Router: Router = inject(Router);
