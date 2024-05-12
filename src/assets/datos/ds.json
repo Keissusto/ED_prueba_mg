@@ -22,6 +22,7 @@
       },
       "durability": 300,
       "name": "Abyss Greatsword",
+      "imagen": "",
       "attack_type": "regular",
       "bonus": {
         "faith": null,
