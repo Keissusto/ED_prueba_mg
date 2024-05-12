@@ -1,4 +1,9 @@
-export interface DataDS {
+export interface DataDS{
+  info: Info;
+  weapons: Weapons[];
+}
+
+export interface Weapons {
   requirements: Requirements;
   damage_reduction: Damagereduction;
   weapon_type: string;
@@ -30,4 +35,10 @@ export interface Requirements {
   strength: number;
   intelligence: number;
   dexterity: number;
+}
+export interface Info {
+  count: number;
+  pages: number;
+  next: string;
+  prev?: any;
 }

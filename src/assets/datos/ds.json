@@ -1,4 +1,5 @@
 [{
+    "id":  1,
     "requirements": {
       "faith": 18,
       "strength": 22,
@@ -31,6 +32,7 @@
     "image": "../../assets/darksouls armas/Abyss Greatsword.webp"
   },
   {
+    "id":  2,
     "requirements": {
       "faith": 14,
       "strength": 10,
@@ -63,6 +65,7 @@
     "image": "../../assets/darksouls armas/Astora's Straight Sword.webp"
   },
   {
+    "id":  3,
     "requirements": {
       "faith": 0,
       "strength": 16,

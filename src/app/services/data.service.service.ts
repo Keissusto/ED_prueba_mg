@@ -9,12 +9,19 @@ import { DataDS } from '../common/data-ds';
 export class DataServiceService {
 
   constructor( private http: HttpClient){
-    
+
   }
 
   loadApi(): Observable<DataDS[]>
   {
     return this.http.get<DataDS[]>("../../assets/datos/ds.json")
+  }
+  loadChar(id: string): Observable <DataDS>{
+    return this.http.get<DataDS>("https://rickandmortyapi.com/api/character/" + id);
+  }
+
+  reloadPag(pag: string): Observable <DataDS>{
+    return this.http.get<DataDS>(pag);
   }
 
 }
