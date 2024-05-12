@@ -4,16 +4,15 @@
     <h1 class="text-center">DARK SOULS API</h1>
   </div>
 
-
-
-  <div class="d-flex  align-items-center justify-content-center" style="padding-bottom: 10%;">
+  <div class="row my-3 " style="padding-bottom: 10%;">
     @for (item of armas; track $index ) {
       @if ((item.weapon_type) == "greatsword") {
-       
-      <div  class= "card col-3  py-5 cartaarma" style="padding-left: 2%; padding-right: 1%;">
-       
-          <div>
-            <h1>{{item.name}} </h1>
+
+      <div class="col-3 my-3">
+        <div  class= "card py-5 cartaarma" style="padding-left: 2%; padding-right: 1%; width: 100%;">
+
+          <div class="cardheader">
+            <h1 class="">{{item.name}} </h1>
           </div>
           <div class="image">
             <img src="{{item.image}}" alt="" style="width: 100%;">
@@ -25,15 +24,9 @@
           <span>Tipo de ataque:{{item.attack_type}}  </span>
           <span>Requisitos: (Destreza {{item.requirements.dexterity}}, Fe {{item.requirements.faith}}, Inteligencia {{item.requirements.intelligence}}, Fuerza {{item.requirements.strength}} )  </span>
           <span>Reducción de daño: ( Fuego {{item.damage_reduction.fire}}, Luz {{item.damage_reduction.lightning}}, Magia {{item.damage_reduction.magic}}, Fisico {{item.damage_reduction.physical}} )  </span>
-        
+
+        </div>
       </div>
-
-    <div style="padding-left: 2%; margin-left: 1%; padding-right: 1%;">
-
-
-    </div>
-    
-      }
+    }
   }
-  </div>
 </div>
