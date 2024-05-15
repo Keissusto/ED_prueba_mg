@@ -1,0 +1,167 @@
+[
+  {
+      "id": 1,
+      "imagen": "../../../assets/darksouls armas2/Battle Axe.png",
+      "requirements": {
+          "faith": 0,
+          "strength": 12,
+          "intelligence": 0,
+          "dexterity": 8
+      },
+      "damage_reduction": {
+          "physical": 55,
+          "magic": 10,
+          "lightning": 40,
+          "fire": 40
+      },
+      "weapon_type": "axe",
+      "weight": 4,
+      "damage": {
+          "physical": 95,
+          "magic": 0,
+          "lightning": 0,
+          "fire": 0
+      },
+      "durability": 250,
+      "name": "Battle Axe",
+      "attack_type": "regular",
+      "bonus": {
+          "faith": null,
+          "strength": "C",
+          "intelligence": null,
+          "dexterity": "D"
+      }
+  },
+  {
+      "id": 2,
+      "imagen": "../../../assets/darksouls armas2/Butcher Knife.png",
+      "requirements": {
+          "faith": 0,
+          "strength": 24,
+          "intelligence": 0,
+          "dexterity": 0
+      },
+      "damage_reduction": {
+          "physical": 55,
+          "magic": 10,
+          "lightning": 40,
+          "fire": 40
+      },
+      "weapon_type": "axe",
+      "weight": 10,
+      "damage": {
+          "physical": 90,
+          "magic": 0,
+          "lightning": 0,
+          "fire": 0
+      },
+      "durability": 250,
+      "name": "Butcher Knife",
+      "attack_type": "regular",
+      "bonus": {
+          "faith": null,
+          "strength": "B",
+          "intelligence": null,
+          "dexterity": null
+      }
+  },
+  {
+      "id": 3,
+      "requirements": {
+          "faith": 0,
+          "strength": 14,
+          "intelligence": 0,
+          "dexterity": 14
+      },
+      "damage_reduction": {
+          "physical": 55,
+          "magic": 10,
+          "lightning": 40,
+          "fire": 40
+      },
+      "weapon_type": "axe",
+      "weight": 5,
+      "damage": {
+          "physical": 93,
+          "magic": 0,
+          "lightning": 0,
+          "fire": 0
+      },
+      "durability": 150,
+      "name": "Gargoyle Tail Axe",
+      "attack_type": "regular",
+      "bonus": {
+          "faith": null,
+          "strength": "D",
+          "intelligence": null,
+          "dexterity": "C"
+      },
+      "imagen": "../../../assets/darksouls armas2/Gargoyle Tail Axe.png"
+  },
+  {
+      "id": 4,
+      "requirements": {
+          "faith": 0,
+          "strength": 36,
+          "intelligence": 0,
+          "dexterity": 8
+      },
+      "damage_reduction": {
+          "physical": 55,
+          "magic": 10,
+          "lightning": 40,
+          "fire": 40
+      },
+      "weapon_type": "axe",
+      "weight": 16,
+      "damage": {
+          "physical": 170,
+          "magic": 0,
+          "lightning": 0,
+          "fire": 0
+      },
+      "durability": 600,
+      "name": "Golem Axe",
+      "attack_type": "regular",
+      "bonus": {
+          "faith": null,
+          "strength": "C",
+          "intelligence": null,
+          "dexterity": "E"
+      },
+      "imagen": "../../../assets/darksouls armas2/Golem Axe.png"
+  },
+  {
+      "id": 5,
+      "requirements": {
+          "faith": 0,
+          "strength": 8,
+          "intelligence": 0,
+          "dexterity": 8
+      },
+      "damage_reduction": {
+          "physical": 55,
+          "magic": 10,
+          "lightning": 40,
+          "fire": 40
+      },
+      "weapon_type": "axe",
+      "weight": 2,
+      "damage": {
+          "physical": 80,
+          "magic": 0,
+          "lightning": 0,
+          "fire": 0
+      },
+      "durability": 250,
+      "name": "Hand Axe",
+      "attack_type": "regular",
+      "bonus": {
+          "faith": null,
+          "strength": "C",
+          "intelligence": null,
+          "dexterity": "D"
+      },
+      "imagen": "../../../assets/darksouls armas2/Hand Axe.png"
+  }
+]

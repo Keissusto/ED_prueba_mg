@@ -1,0 +1,222 @@
+[
+
+    {
+          "requirements": {
+            "faith": 0,
+            "strength": 9,
+            "intelligence": 0,
+            "dexterity": 13
+          },
+          "damage_reduction": {
+            "physical": 45,
+            "magic": 10,
+            "lightning": 30,
+            "fire": 30
+          },
+          "weapon_type": "curved-sword",
+          "weight": 2.5,
+          "damage": {
+            "physical": 82,
+            "magic": 0,
+            "lightning": 0,
+            "fire": 0
+          },
+          "durability": 160,
+          "name": "Falchion",
+          "attack_type": "slash",
+          "bonus": {
+            "faith": null,
+            "strength": "E",
+            "intelligence": null,
+            "dexterity": "B"
+          },
+          "imagen": "../../../assets/darksouls armas2/Falchion.png"
+        },{
+          "requirements": {
+            "faith": 0,
+            "strength": 9,
+            "intelligence": 0,
+            "dexterity": 13
+          },
+          "damage_reduction": {
+            "physical": 45,
+            "magic": 10,
+            "lightning": 30,
+            "fire": 30
+          },
+          "weapon_type": "curved-sword",
+          "weight": 2,
+          "damage": {
+            "physical": 130,
+            "magic": 0,
+            "lightning": 0,
+            "fire": 0
+          },
+          "durability": 240,
+          "name": "Gold Tracer",
+          "attack_type": "slash",
+          "bonus": {
+            "faith": null,
+            "strength": "E",
+            "intelligence": null,
+            "dexterity": "A"
+          },
+          "imagen": "../../../assets/darksouls armas2/Gold Tracer.png"
+        },{
+          "requirements": {
+            "faith": 0,
+            "strength": 7,
+            "intelligence": 0,
+            "dexterity": 0
+          },
+          "damage_reduction": {
+            "physical": 45,
+            "magic": 10,
+            "lightning": 30,
+            "fire": 30
+          },
+          "weapon_type": "curved-sword",
+          "weight": 1.5,
+          "damage": {
+            "physical": 155,
+            "magic": 0,
+            "lightning": 0,
+            "fire": 0
+          },
+          "durability": 100,
+          "name": "Jagged Ghost Blade",
+          "attack_type": "thrust/slash",
+          "bonus": {
+            "faith": null,
+            "strength": "E",
+            "intelligence": null,
+            "dexterity": null
+          },
+          "imagen": "../../../assets/darksouls armas2/Jagged Ghost Blade.png"
+        }, {
+            "requirements": {
+              "faith": 0,
+              "strength": 7,
+              "intelligence": 0,
+              "dexterity": 20
+            },
+            "damage_reduction": {
+              "physical": 45,
+              "magic": 10,
+              "lightning": 30,
+              "fire": 30
+            },
+            "weapon_type": "curved-sword",
+            "weight": 1.5,
+            "damage": {
+              "physical": 76,
+              "magic": 0,
+              "lightning": 0,
+              "fire": 0
+            },
+            "durability": 100,
+            "name": "Painting Guardian Sword",
+            "attack_type": "slash",
+            "bonus": {
+              "faith": null,
+              "strength": "E",
+              "intelligence": null,
+              "dexterity": "A"
+            },
+            "imagen": "../../../assets/darksouls armas2/Painting Guardian Sword.png"
+          },{
+            "requirements": {
+              "faith": 0,
+              "strength": 11,
+              "intelligence": 0,
+              "dexterity": 13
+            },
+            "damage_reduction": {
+              "physical": 45,
+              "magic": 10,
+              "lightning": 30,
+              "fire": 30
+            },
+            "weapon_type": "curved-sword",
+            "weight": 3.5,
+            "damage": {
+              "physical": 60,
+              "magic": 0,
+              "lightning": 0,
+              "fire": 170
+            },
+            "durability": 600,
+            "name": "Quelaag's Furysword",
+            "attack_type": "slash",
+            "bonus": {
+              "faith": null,
+              "strength": "E",
+              "intelligence": null,
+              "dexterity": "B"
+            },
+            "imagen": "../../../assets/darksouls armas2/Quelaag's Furysword.png"
+          },{
+            "requirements": {
+              "faith": 0,
+              "strength": 20,
+              "intelligence": 0,
+              "dexterity": 10
+            },
+            "damage_reduction": {
+              "physical": 60,
+              "magic": 10,
+              "lightning": 40,
+              "fire": 40
+            },
+            "weapon_type": "curved-sword",
+            "weight": 6,
+            "damage": {
+              "physical": 83,
+              "magic": 0,
+              "lightning": 0,
+              "fire": 0
+            },
+            "durability": 300,
+            "name": "Server",
+            "attack_type": "strike",
+            "bonus": {
+              "faith": null,
+              "strength": "C",
+              "intelligence": null,
+              "dexterity": "B"
+            },
+            "imagen": "../../../assets/darksouls armas2/Server.png"
+          },{
+            "requirements": {
+              "faith": 0,
+              "strength": 14,
+              "intelligence": 0,
+              "dexterity": 14
+            },
+            "damage_reduction": {
+              "physical": 45,
+              "magic": 10,
+              "lightning": 30,
+              "fire": 30
+            },
+            "weapon_type": "curved-sword",
+            "weight": 2.5,
+            "damage": {
+              "physical": 105,
+              "magic": 0,
+              "lightning": 0,
+              "fire": 0
+            },
+            "durability": 80,
+            "name": "Scimitar",
+            "attack_type": "slash",
+            "bonus": {
+              "faith": null,
+              "strength": "E",
+              "intelligence": null,
+              "dexterity": "C"
+            },
+            "imagen": "../../../assets/darksouls armas2/Scimitar.png"
+          }
+    
+    ]

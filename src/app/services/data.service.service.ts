@@ -2,6 +2,7 @@ import { HttpClient } from '@angular/common/http';
 import { Injectable } from '@angular/core';
 import { Observable } from 'rxjs';
 import { DataDS } from '../common/data-ds';
+import { DetallesAPIComponent } from '../components/detalles-api/detalles-api.component';
 
 @Injectable({
   providedIn: 'root'
@@ -16,12 +17,12 @@ export class DataServiceService {
   {
     return this.http.get<DataDS[]>("../../assets/datos/ds.json")
   }
-  loadChar(id: string): Observable <DataDS>{
-    return this.http.get<DataDS>("https://rickandmortyapi.com/api/character/" + id);
+  loadWeapon(name: string): Observable <DataDS[]>{
+    return this.http.get<DataDS[]>("../../assets/datos/ds.json");
   }
-
-  reloadPag(pag: string): Observable <DataDS>{
-    return this.http.get<DataDS>(pag);
+  reloadPag(pag: string): Observable<DataDS[]>
+  {
+    return this.http.get<DataDS[]>(pag)
   }
 
 }
