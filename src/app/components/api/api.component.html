@@ -1,52 +1,58 @@
-<app-navbar></app-navbar>
-<div class="fondo">
-  <div class="title py-5">
-    <h1 class="text-center">DARK SOULS API</h1>
-  </div>
 
-  <div class="row my-3 justify-content-center">
-    <button class="btn btn-info col-1 mx-3" (click)="cambiarPag('axe')">Axe</button>
-    <button class="btn btn-info col-1 mx-3" (click)="cambiarPag('bow')">Bow</button>
-    <button class="btn btn-info col-1 mx-3" (click)="cambiarPag('crossbow')">Crossbow</button>
-    <button class="btn btn-info col-1 mx-3" (click)="cambiarPag('curved-greatsword')">Curved greatsword</button>
-    <button class="btn btn-info col-1 mx-3" (click)="cambiarPag('curved-sword')">Curved sword</button>
-    <button class="btn btn-info col-1 mx-3" (click)="cambiarPag('dagger')">Dagger</button>
-    <button class="btn btn-info col-1 mx-3" (click)="cambiarPag('gauntlet')">Gauntlet</button>
-    <button class="btn btn-info col-1 mx-3" (click)="cambiarPag('greataxe')">Greataxe</button>
-    <button class="btn btn-info col-1 mx-3" (click)="cambiarPag('great-hammer')">Great hammer</button>
-  </div>
-  <div class="row my-3 justify-content-center">
-    <button class="btn btn-info col-1 mx-3" (click)="cambiarPag('greatsword')">Greatsword</button>
-    <button class="btn btn-info col-1 mx-3" (click)="cambiarPag('halberd')">Halberd</button>
-    <button class="btn btn-info col-1 mx-3" (click)="cambiarPag('hammer')">Hammer</button>
-    <button class="btn btn-info col-1 mx-3" (click)="cambiarPag('katana')">Katana</button>
-    <button class="btn btn-info col-1 mx-3" (click)="cambiarPag('spear')">Spear</button>
-    <button class="btn btn-info col-1 mx-3" (click)="cambiarPag('straight-sword')">Straight sword</button>
-    <button class="btn btn-info col-1 mx-3" (click)="cambiarPag('thrusting-sword')">Thrusting sword</button>
-    <button class="btn btn-info col-1 mx-3" (click)="cambiarPag('ultra-greatsword')">Ultra greatsword</button>
-    <button class="btn btn-info col-1 mx-3" (click)="cambiarPag('whip')">Whip</button>
-  </div>
-
-  <div class="row my-3 " style="padding-bottom: 10%;">
-    @for (item of armas; track $index ) {
-      <div class="col-3 my-3">
-        <div  class= "card py-5 cartaarma" style="padding-left: 2%; padding-right: 1%; width: 100%;">
-
-          <div class="cardheader">
-            <h1 class="">{{item.name}} </h1>
+  <app-navbar></app-navbar>
+  <div class="fondo">
+    <div class="title py-5">
+      <h1 class="text-center">DARK SOULS API</h1>
+    </div>
+  
+    <div class="row my-3 justify-content-center">
+      <button class="btn btn-info col-1 mx-3" (click)="cambiarPag('axe')">Axe</button>
+      <button class="btn btn-info col-1 mx-3" (click)="cambiarPag('bow')">Bow</button>
+      <button class="btn btn-info col-1 mx-3" (click)="cambiarPag('crossbow')">Crossbow</button>
+      <button class="btn btn-info col-1 mx-3" (click)="cambiarPag('curved-greatsword')">Curved greatsword</button>
+      <button class="btn btn-info col-1 mx-3" (click)="cambiarPag('curved-sword')">Curved sword</button>
+      <button class="btn btn-info col-1 mx-3" (click)="cambiarPag('dagger')">Dagger</button>
+      <button class="btn btn-info col-1 mx-3" (click)="cambiarPag('gauntlet')">Gauntlet</button>
+      <button class="btn btn-info col-1 mx-3" (click)="cambiarPag('greataxe')">Greataxe</button>
+      <button class="btn btn-info col-1 mx-3" (click)="cambiarPag('great-hammer')">Great hammer</button>
+    </div>
+    <div class="row my-3 justify-content-center">
+      <button class="btn btn-info col-1 mx-3" (click)="cambiarPag('greatsword')">Greatsword</button>
+      <button class="btn btn-info col-1 mx-3" (click)="cambiarPag('halberd')">Halberd</button>
+      <button class="btn btn-info col-1 mx-3" (click)="cambiarPag('hammer')">Hammer</button>
+      <button class="btn btn-info col-1 mx-3" (click)="cambiarPag('katana')">Katana</button>
+      <button class="btn btn-info col-1 mx-3" (click)="cambiarPag('spear')">Spear</button>
+      <button class="btn btn-info col-1 mx-3" (click)="cambiarPag('straight-sword')">Straight sword</button>
+      <button class="btn btn-info col-1 mx-3" (click)="cambiarPag('thrusting-sword')">Thrusting sword</button>
+      <button class="btn btn-info col-1 mx-3" (click)="cambiarPag('ultra-greatsword')">Ultra greatsword</button>
+      <button class="btn btn-info col-1 mx-3" (click)="cambiarPag('whip')">Whip</button>
+    </div>
+  
+    <div class="row my-3 " style="padding-bottom: 10%;">
+      @for (item of armas; track $index ) {
+        <div class="col-3 my-3">
+          <a href="/API/{{item.id}}">
+          <div  class= "card py-5 cartaarma" style="padding-left: 2%; padding-right: 1%; width: 100%;">
+  
+            <div class="cardheader">
+              <h1 class="">{{item.name}} </h1>
+            </div>
+            <div class="image">
+            <img src="{{item.imagen}}" alt="" style="width: 100%; padding-left: 15%;">
+            </div>
+            <span>Tipo de arma: <strong> {{item.weapon_type}} </strong></span>
+            <span>Peso:{{item.weight}}  </span>
+            <span>Daño: st (Fisico:{{item.damage.physical}}, Fuego: {{item.damage.fire}}, Luz {{item.damage.lightning}}, Magia {{item.damage.magic}})</span>
+            <span>Durabilidad:{{item.durability}}  </span>
+            <span>Tipo de ataque:{{item.attack_type}}  </span>
+            <span>Requisitos: (Destreza {{item.requirements.dexterity}}, Fe {{item.requirements.faith}}, Inteligencia {{item.requirements.intelligence}}, Fuerza {{item.requirements.strength}} )  </span>
+            <span>Reducción de daño: ( Fuego {{item.damage_reduction.fire}}, Luz {{item.damage_reduction.lightning}}, Magia {{item.damage_reduction.magic}}, Fisico {{item.damage_reduction.physical}} )  </span>
+  
           </div>
-          <div class="image">
-          <img src="{{item.imagen}}" alt="" style="width: 100%; padding-left: 15%;">
-          </div>
-          <span>Tipo de arma: <strong> {{item.weapon_type}} </strong></span>
-          <span>Peso:{{item.weight}}  </span>
-          <span>Daño: st (Fisico:{{item.damage.physical}}, Fuego: {{item.damage.fire}}, Luz {{item.damage.lightning}}, Magia {{item.damage.magic}})</span>
-          <span>Durabilidad:{{item.durability}}  </span>
-          <span>Tipo de ataque:{{item.attack_type}}  </span>
-          <span>Requisitos: (Destreza {{item.requirements.dexterity}}, Fe {{item.requirements.faith}}, Inteligencia {{item.requirements.intelligence}}, Fuerza {{item.requirements.strength}} )  </span>
-          <span>Reducción de daño: ( Fuego {{item.damage_reduction.fire}}, Luz {{item.damage_reduction.lightning}}, Magia {{item.damage_reduction.magic}}, Fisico {{item.damage_reduction.physical}} )  </span>
-
+        </a>
         </div>
-      </div>
-  }
-</div>
+    }
+  </div>
+
+
+

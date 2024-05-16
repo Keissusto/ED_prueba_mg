@@ -17,8 +17,8 @@ export class DataServiceService {
   {
     return this.http.get<DataDS[]>("../../assets/datos/ds.json")
   }
-  loadWeapon(name: string): Observable <DataDS[]>{
-    return this.http.get<DataDS[]>("../../assets/datos/ds.json");
+  loadWeapon(id: string): Observable <DataDS>{
+    return this.http.get<DataDS>("../../assets/datos/ds.json");
   }
   reloadPag(pag: string): Observable<DataDS[]>
   {

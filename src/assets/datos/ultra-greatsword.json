@@ -1,99 +1,101 @@
 [
-
-    {
-          "imagen": "../../../assets/darksouls armas2/Black Knight Greatsword.png",
-          "requirements": {
-            "faith": 0,
-            "strength": 32,
-            "intelligence": 0,
-            "dexterity": 18
-          },
-          "damage_reduction": {
-            "physical": 70,
-            "magic": 10,
-            "lightning": 50,
-            "fire": 50
-          },
-          "weapon_type": "ultra-greatsword",
-          "weight": 14,
-          "damage": {
-            "physical": 220,
-            "magic": 0,
-            "lightning": 0,
-            "fire": 0
-          },
-          "durability": 300,
-          "name": "Black Knight Greatsword",
-          "attack_type": "regular/thrust",
-          "bonus": {
-            "faith": null,
-            "strength": "B",
-            "intelligence": null,
-            "dexterity": "E"
-          }
-        },{
-          "requirements": {
-            "faith": 0,
-            "strength": 28,
-            "intelligence": 0,
-            "dexterity": 10
-          },
-          "damage_reduction": {
-            "physical": 70,
-            "magic": 10,
-            "lightning": 50,
-            "fire": 50
-          },
-          "weapon_type": "ultra-greatsword",
-          "weight": 12,
-          "damage": {
-            "physical": 130,
-            "magic": 0,
-            "lightning": 0,
-            "fire": 0
-          },
-          "durability": 200,
-          "name": "Greatsword",
-          "attack_type": "regular/thrust",
-          "bonus": {
-            "faith": null,
-            "strength": "C",
-            "intelligence": null,
-            "dexterity": "D"
-          },
-          "imagen": "../../../assets/darksouls armas2/Greatsword.png"
-        },{
-            "requirements": {
-              "faith": 0,
-              "strength": 24,
-              "intelligence": 0,
-              "dexterity": 10
-            },
-            "damage_reduction": {
-              "physical": 70,
-              "magic": 10,
-              "lightning": 50,
-              "fire": 50
-            },
-            "weapon_type": "ultra-greatsword",
-            "weight": 10,
-            "damage": {
-              "physical": 130,
-              "magic": 0,
-              "lightning": 0,
-              "fire": 0
-            },
-            "durability": 200,
-            "name": "Zweihander",
-            "attack_type": "regular",
-            "bonus": {
-              "faith": null,
-              "strength": "C",
-              "intelligence": null,
-              "dexterity": "D"
-            },
-            "imagen": "../../../assets/darksouls armas2/Zweihander.png"
-          }
-        
-    
-    ]
+  {
+      "id": 94,
+      "imagen": "../../../assets/darksouls armas2/Black Knight Greatsword.png",
+      "requirements": {
+          "faith": 0,
+          "strength": 32,
+          "intelligence": 0,
+          "dexterity": 18
+      },
+      "damage_reduction": {
+          "physical": 70,
+          "magic": 10,
+          "lightning": 50,
+          "fire": 50
+      },
+      "weapon_type": "ultra-greatsword",
+      "weight": 14,
+      "damage": {
+          "physical": 220,
+          "magic": 0,
+          "lightning": 0,
+          "fire": 0
+      },
+      "durability": 300,
+      "name": "Black Knight Greatsword",
+      "attack_type": "regular/thrust",
+      "bonus": {
+          "faith": null,
+          "strength": "B",
+          "intelligence": null,
+          "dexterity": "E"
+      }
+  },
+  {
+      "id": 95,
+      "requirements": {
+          "faith": 0,
+          "strength": 28,
+          "intelligence": 0,
+          "dexterity": 10
+      },
+      "damage_reduction": {
+          "physical": 70,
+          "magic": 10,
+          "lightning": 50,
+          "fire": 50
+      },
+      "weapon_type": "ultra-greatsword",
+      "weight": 12,
+      "damage": {
+          "physical": 130,
+          "magic": 0,
+          "lightning": 0,
+          "fire": 0
+      },
+      "durability": 200,
+      "name": "Greatsword",
+      "attack_type": "regular/thrust",
+      "bonus": {
+          "faith": null,
+          "strength": "C",
+          "intelligence": null,
+          "dexterity": "D"
+      },
+      "imagen": "../../../assets/darksouls armas2/Greatsword.png"
+  },
+  {
+      "id": 96,
+      "requirements": {
+          "faith": 0,
+          "strength": 24,
+          "intelligence": 0,
+          "dexterity": 10
+      },
+      "damage_reduction": {
+          "physical": 70,
+          "magic": 10,
+          "lightning": 50,
+          "fire": 50
+      },
+      "weapon_type": "ultra-greatsword",
+      "weight": 10,
+      "damage": {
+          "physical": 130,
+          "magic": 0,
+          "lightning": 0,
+          "fire": 0
+      },
+      "durability": 200,
+      "name": "Zweihander",
+      "attack_type": "regular",
+      "bonus": {
+          "faith": null,
+          "strength": "C",
+          "intelligence": null,
+          "dexterity": "D"
+      },
+      "imagen": "../../../assets/darksouls armas2/Zweihander.png"
+  }
+]

@@ -3,27 +3,27 @@
   <div class="title py-5">
     <h1 class="text-center">DARK SOULS API</h1>
   </div>
+  @if (arma) {
+  <div class="row my-3" style="padding-bottom: 10%;">
+    <div class="col-3 my-3">
+      <div class="card py-5 cartaarma" style="padding-left: 2%; padding-right: 1%; width: 100%;">
 
-  <div class="row my-3 " style="padding-bottom: 10%;">
-  
-      <div class="col-3 my-3">
-        <div  class= "card py-5 cartaarma" style="padding-left: 2%; padding-right: 1%; width: 100%;">
-
-          <div class="cardheader">
-            <h1 class="">{{armas.name}} </h1>
-          </div>
-          <div class="image">
-          <img src="{{armas.imagen}}" alt="" style="width: 100%; padding-left: 15%;">
-          </div>
-          <span>Tipo de arma: <strong> {{armas.weapon_type}} </strong></span>
-          <span>Peso:{{armas.weight}}  </span>
-          <span>Daño: st (Fisico:{{armas.damage.physical}}, Fuego: {{armas.damage.fire}}, Luz {{armas.damage.lightning}}, Magia {{armas.damage.magic}})</span>
-          <span>Durabilidad:{{armas.durability}}  </span>
-          <span>Tipo de ataque:{{armas.attack_type}}  </span>
-          <span>Requisitos: (Destreza {{armas.requirements.dexterity}}, Fe {{armas.requirements.faith}}, Inteligencia {{armas.requirements.intelligence}}, Fuerza {{armas.requirements.strength}} )  </span>
-          <span>Reducción de daño: ( Fuego {{armas.damage_reduction.fire}}, Luz {{armas.damage_reduction.lightning}}, Magia {{armas.damage_reduction.magic}}, Fisico {{armas.damage_reduction.physical}} )  </span>
-
+        <div class="cardheader">
+          <h1 class="">{{arma.name}} </h1>
         </div>
-      </div>
+        <div class="image">
+          <img src="{{arma.imagen}}" alt="" style="width: 100%; padding-left: 15%;">
+        </div>
+        <span>Tipo de item: <strong>{{arma.weapon_type}}</strong></span>
+        <span>Peso: {{arma.weight}}  </span>
+        <span>Daño: st (Fisico:{{arma.damage.physical}}, Fuego: {{arma.damage.fire}}, Luz {{arma.damage.lightning}}, Magia {{arma.damage.magic}})</span>
+        <span>Durabilidad: {{arma.durability}}  </span>
+        <span>Tipo de ataque: {{arma.attack_type}}  </span>
+        <span>Requisitos: (Destreza {{arma.requirements.dexterity}}, Fe {{arma.requirements.faith}}, Inteligencia {{arma.requirements.intelligence}}, Fuerza {{arma.requirements.strength}} )  </span>
+        <span>Reducción de daño: ( Fuego {{arma.damage_reduction.fire}}, Luz {{arma.damage_reduction.lightning}}, Magia {{arma.damage_reduction.magic}}, Fisico {{arma.damage_reduction.physical}} )  </span>
 
+      </div>
+    </div>
+  </div>
+}
 </div>

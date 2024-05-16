@@ -17,7 +17,8 @@ export const routes: Routes = [
     {path:'API',component: APIComponent},
     {path:'header',component: HeaderComponent},
     {path:'navbar',component: NavbarComponent},
-    {path:'detallesAPI',component: DetallesAPIComponent},
+    {path:'API/:id',component: DetallesAPIComponent},
     {path:'registro',component: RegistroComponent},
     {path:'**',component: ErrorComponent}
+    
 ];
