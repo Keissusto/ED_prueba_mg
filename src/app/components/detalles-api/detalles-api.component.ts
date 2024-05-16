@@ -35,11 +35,4 @@ import { Router } from '@angular/router';
       });
     }
 
-    cambiarPag(arma: string)
-    {
-      this.Router.navigateByUrl("API/" + arma).then(() => this.prueba(arma));
-    }
-
-    private prueba(arma: string)
-    {}
   }

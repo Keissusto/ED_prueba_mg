@@ -1,4 +1,5 @@
-[
+{
+  "datos" :[
   {
     "id": 49,
     "imagen": "../../../assets/darksouls armas2/Black Knight Halberd.png",
@@ -297,3 +298,4 @@
     "imagen": "../../../assets/darksouls armas2/Titanite Catch Pole.png"
   }
 ]
+}

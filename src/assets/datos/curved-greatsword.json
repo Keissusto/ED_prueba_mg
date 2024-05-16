@@ -1,4 +1,5 @@
-[
+{
+  "datos" :[
   {
     "id": 14,
     "requirements": {
@@ -66,3 +67,4 @@
     "imagen": "../../../assets/darksouls armas2/Murakumo.png"
   }
 ]
+}

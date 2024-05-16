@@ -1,7 +1,7 @@
 import { DataDS, Dato } from './../../common/data-ds';
 import { Component, OnInit, inject } from '@angular/core';
 import { DataServiceService } from '../../services/data.service.service';
-import { Data, RouterOutlet } from '@angular/router';
+import { ActivatedRoute, Data, RouterOutlet } from '@angular/router';
 import { NavbarComponent } from '../../layouts/navbar/navbar.component';
 
 @Component({
@@ -14,12 +14,16 @@ import { NavbarComponent } from '../../layouts/navbar/navbar.component';
 export class APIComponent {
 
   armas!: DataDS;
+  arma!:Dato[];
+  tipoarma!: string;
 
-  private data: DataServiceService =  inject(DataServiceService);
+  
   DataDS: any;
-  constructor()
+  constructor(private data: DataServiceService, private ActivateRoute: ActivatedRoute)
   {
+
   this.cargarApi();
+
   }
   private cargarApi(){
     this.data.loadApi().subscribe({
@@ -95,7 +99,7 @@ export class APIComponent {
   private loadPag(pag: string){
     this.data.reloadPag(pag).subscribe({
       next:( datos: DataDS) => {
-        this.armas = datos;
+        this.armas= datos;
       },
       error:(err: string) =>{
         console.log(err)

@@ -1,4 +1,5 @@
-[
+{
+  "datos" :[
   {
     "id": 27,
     "imagen": "../../../assets/darksouls armas2/Caestus.png",
@@ -66,3 +67,4 @@
     }
   }
 ]
+}

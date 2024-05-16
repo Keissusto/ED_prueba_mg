@@ -1,4 +1,5 @@
-[
+{
+    "datos" : [
   {
       "id": 1,
       "imagen": "../../../assets/darksouls armas2/Battle Axe.png",
@@ -165,3 +166,4 @@
       "imagen": "../../../assets/darksouls armas2/Hand Axe.png"
   }
 ]
+}

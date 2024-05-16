@@ -1,4 +1,5 @@
-[
+{
+  "datos" :[
   {
     "id": 58,
     "imagen": "../../../assets/darksouls armas2/Blacksmith Giant Hammer.png",
@@ -330,3 +331,4 @@
     "imagen": "../../../assets/darksouls armas2/Warpick.png"
   }
 ]
+}

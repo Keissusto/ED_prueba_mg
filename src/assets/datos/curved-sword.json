@@ -1,4 +1,5 @@
-[
+{
+  "datos" :[
   {
     "id": 16,
     "requirements": {
@@ -231,3 +232,4 @@
     "imagen": "../../../assets/darksouls armas2/Scimitar.png"
   }
 ]
+}

@@ -1,4 +1,5 @@
-[
+{
+  "datos" :[
   {
     "id": 10,
     "imagen": "../../../assets/darksouls armas2/Avelyn.png",
@@ -132,3 +133,4 @@
     }
   }
 ]
+}

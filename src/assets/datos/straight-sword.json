@@ -1,4 +1,5 @@
-[
+{
+  "datos" :[
   {
     "id": 80,
     "imagen": "../../../assets/darksouls armas2/Astora's Straight Sword.png",
@@ -297,3 +298,4 @@
     "imagen": "../../../assets/darksouls armas2/Sunlight Straight Sword.png"
   }
 ]
+}

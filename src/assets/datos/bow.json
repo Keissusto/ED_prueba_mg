@@ -1,4 +1,5 @@
-[
+{
+    "datos" :[
   {
       "id": 6,
       "imagen": "../../../assets/darksouls armas2/Black Bow of Pharis.png",
@@ -132,3 +133,4 @@
       "imagen": "../../../assets/darksouls armas2/Longbow.png"
   }
 ]
+}
