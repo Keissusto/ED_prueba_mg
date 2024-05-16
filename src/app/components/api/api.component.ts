@@ -1,4 +1,4 @@
-import { DataDS } from './../../common/data-ds';
+import { DataDS, Dato } from './../../common/data-ds';
 import { Component, OnInit, inject } from '@angular/core';
 import { DataServiceService } from '../../services/data.service.service';
 import { Data, RouterOutlet } from '@angular/router';
@@ -13,7 +13,7 @@ import { NavbarComponent } from '../../layouts/navbar/navbar.component';
 })
 export class APIComponent {
 
-  armas: DataDS[] = [];
+  armas!: DataDS;
 
   private data: DataServiceService =  inject(DataServiceService);
   DataDS: any;
@@ -23,7 +23,7 @@ export class APIComponent {
   }
   private cargarApi(){
     this.data.loadApi().subscribe({
-      next:( datos: DataDS[]) => {
+      next:( datos: DataDS) => {
         this.armas = datos;
       },
       error:(err: string) =>{
@@ -94,7 +94,7 @@ export class APIComponent {
   }
   private loadPag(pag: string){
     this.data.reloadPag(pag).subscribe({
-      next:( datos: DataDS[]) => {
+      next:( datos: DataDS) => {
         this.armas = datos;
       },
       error:(err: string) =>{

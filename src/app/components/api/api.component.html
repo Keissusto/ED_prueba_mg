@@ -29,7 +29,7 @@
     </div>
   
     <div class="row my-3 " style="padding-bottom: 10%;">
-      @for (item of armas; track $index ) {
+      @for (item of armas.datos; track $index ) {
         <div class="col-3 my-3">
           <a href="/API/{{item.id}}">
           <div  class= "card py-5 cartaarma" style="padding-left: 2%; padding-right: 1%; width: 100%;">

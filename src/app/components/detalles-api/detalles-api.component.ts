@@ -3,6 +3,7 @@ import { DataServiceService } from '../../services/data.service.service';
 import { ActivatedRoute } from '@angular/router';
 import { NavbarComponent } from '../../layouts/navbar/navbar.component';
 import { DataDS } from '../../common/data-ds';
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-api',
@@ -12,16 +13,18 @@ import { DataDS } from '../../common/data-ds';
   styleUrls: ['../api/api.component.css']
 })
   export class DetallesAPIComponent  {
-    arma!: DataDS;
+    armas!: DataDS;
+    id!: number;
   
-    constructor(private activatedRoute: ActivatedRoute, private dataService: DataServiceService) 
-    {  const id = this.activatedRoute.snapshot.params["id"];
-    this.cargarArma(id);}
+    constructor(private activatedRoute: ActivatedRoute, private dataService: DataServiceService, private Router: Router) 
+    {  this.id= this.activatedRoute.snapshot.params["id"];
+    this.cargarArma();
+   }
   
-    private cargarArma(id: string): void {
-      this.dataService.loadWeapon(id).subscribe({
+    private cargarArma(): void {
+      this.dataService.loadApi().subscribe({
         next: (datos: DataDS) => {
-          this.arma = datos;
+          this.armas = datos;
         },
         error: (err: string) => {
           console.log(err);
@@ -31,4 +34,12 @@ import { DataDS } from '../../common/data-ds';
         }
       });
     }
+
+    cambiarPag(arma: string)
+    {
+      this.Router.navigateByUrl("API/" + arma).then(() => this.prueba(arma));
+    }
+
+    private prueba(arma: string)
+    {}
   }
