@@ -5,11 +5,15 @@
     <h1 class="text-center">DARK SOULS API</h1>
   </div>
   <div class="row my-3 " style="padding-bottom: 10%;">
+    <div class="text-center">
+      <button class="button cartaarma col-1 ">Antes</button>
+      <button class="button cartaarma col-1 m-3">Siguiente</button>
+    </div>
     @for (item of armas.datos; track $index ) {
       @if (item.id == id) {
         <div  class="row my-3 justify-content-center">
       <div class="col-3 my-3 justify-content-center">
-       
+
         <div  class= "card py-5 cartaarma" style="padding-left: 2%; padding-right: 1%; width: 100%;">
 
           <div class="cardheader">
@@ -27,11 +31,15 @@
           <span>Reducción de daño: ( Fuego {{item.damage_reduction.fire}}, Luz {{item.damage_reduction.lightning}}, Magia {{item.damage_reduction.magic}}, Fisico {{item.damage_reduction.physical}} )  </span>
 
         </div>
-    
+
       </div>
     </div>
     }
   }
+  <div class="text-center">
+    <button class="button cartaarma col-1 ">Antes</button>
+    <button class="button cartaarma col-1 m-3">Siguiente</button>
+  </div>
 </div>
 
 
