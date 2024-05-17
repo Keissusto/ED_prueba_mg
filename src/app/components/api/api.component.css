@@ -7,7 +7,7 @@ background-size: 100%;
 
 *{
   color: white;
-    font-family: 'Optimus Princeps'
+    font-family: 'Optimus Princeps';
 }
 .cartaarma{
   background-image: url("../../../assets/test.gif");
@@ -16,4 +16,5 @@ background-size: 100%;
 .image
 {
 width: 100%;
+
 }
